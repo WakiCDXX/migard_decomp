@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">പ്രവർത്തന സ്റ്റാറ്റസ് പ്രകാരം അടുക്കുക</string>
+    <string name="app_name">ബാറ്ററിയും പ്രകടനവും</string>
+    <string name="base_info">അടിസ്ഥാന വിവരം</string>
+    <string name="checking_intranet">ഇൻട്രാനെറ്റ് കണക്ഷൻ പരിശോധിക്കുന്നു…</string>
+    <string name="clear_temperature">അവസാന താപനില</string>
+    <string name="cloud_addr_info">ക്ലൗഡ് വിവരങ്ങൾ</string>
+    <string name="confirm">ശരി</string>
+    <string name="connect_intranet_hint">ഇൻട്രാനെറ്റിലേക്ക് കണക്റ്റുചെയ്യുക</string>
+    <string name="delete_data_confirm">ഈ ഇനം ഇപ്പോൾ മായ്ക്കണോ?</string>
+    <string name="enable_sleep_mode">രാത്രിയിലെ ബാറ്ററി ഉപയോഗം ഒപ്റ്റിമൈസ് ചെയ്യുന്നതിന് സ്ലീപ് മോഡ് ഓണാക്കുക</string>
+    <string name="failure">പിശക്</string>
+    <string name="high_temp_benchmark_state">അമിതമായി ചൂടാകുന്നു</string>
+    <string name="high_temp_benchmark_state_message">ഈ ഉപകരണം ഇപ്പോൾ വളരെ ചൂടായതായി തോന്നുന്നു. ഉപകരണം തണുത്തതിനുശേഷം ഈ ആപ്പ് ഉപയോഗിക്കുക: </string>
+    <string name="high_temp_state">അമിതമായി ചൂടാകുന്നു</string>
+    <string name="high_temp_state_message">നിങ്ങളുടെ ഉപകരണം അമിതമായി ചൂടാകുന്നു. മൊബൈൽ ഡാറ്റ, വൈ-ഫൈ ഹോട്ട്സ്പോട്ടുകൾ, GPS, ക്യാമറ എന്നിവ നിയന്ത്രിക്കപ്പെടും.</string>
+    <string name="high_temp_state_message_orange_es">ഉപകരണത്തിന്റെ പ്രകടനം മെച്ചപ്പെടുത്താൻ, ചില ആപ്പുകൾ താൽക്കാലികമായി അപ്രാപ്തമാക്കിയിരിക്കുന്നു.</string>
+    <string name="insert_data">ഡാറ്റ ചേർക്കുക</string>
+    <string name="kill_all_back_pro_toast_message">നിങ്ങളുടെ ഉപകരണം അമിതമായി ചൂടായിരിക്കുന്നു. ഇപ്പോൾ പശ്ചാത്തലത്തിൽ പ്രവർത്തിക്കുന്ന എല്ലാ ആപ്പുകളും അടച്ചു.</string>
+    <string name="kill_pkg_toast_message">ഉപകരണം അമിതമായി ചൂടാകുന്നതിനാൽ ആപ്പുകൾ ഉപയോഗിക്കാനാകില്ല</string>
+    <string name="kill_some_back_pro_toast_message">നിങ്ങളുടെ ഉപകരണം അമിതമായി ചൂടായിരിക്കുന്നു. ഇപ്പോൾ പശ്ചാത്തലത്തിൽ പ്രവർത്തിക്കുന്ന ചില ആപ്പുകൾ അടച്ചു.</string>
+    <string name="lasttime_applist_cloud">അപ്ഡേറ്റുചെയ്ത ആപ്പുകൾ:</string>
+    <string name="lasttime_feature_cloud">അപ്ഡേറ്റുചെയ്ത ഫീച്ചറുകൾ:</string>
+    <string name="modify_data">ഡാറ്റ പരിഷ്ക്കരിക്കുക</string>
+    <string name="power_consume_abnormal_night">രാത്രിയിൽ ബാറ്ററി തീർന്നു</string>
+    <string name="privacy">സ്വകാര്യതാ നയം</string>
+    <string name="save_data">ഡാറ്റ ലാഭിക്കുക</string>
+    <string name="screen_off_current">സ്ക്രീൻ ഓഫ് DC</string>
+    <string name="screen_on_current">സ്ക്രീൻ ഓൺ DC</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">ആപ്പുകളൊന്നും കണ്ടെത്താനായില്ല</string>
+    <string name="softbank_high_temp_toast_time_10min">അമിതമായി ചൂടാകുന്നത് ഒഴിവാക്കാൻ ഫ്ലാഷ്‌ലൈറ്റ് ഓഫാക്കി</string>
+    <string name="softbank_high_temp_toast_time_4min">അമിതമായി ചൂടാകുന്നത് ഒഴിവാക്കാൻ ഫ്ലാഷ് ഓഫാക്കി</string>
+    <string name="stricter_high_temp_state_message">ഈ ഉപകരണം അമിതമായി ചൂടായതായി തോന്നുന്നു. നിങ്ങൾക്ക് ഇപ്പോൾ ഫോണും കോൺടാക്‌റ്റുകളും മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ.</string>
+    <string name="sucess">പൂർത്തിയാക്കി</string>
+    <string name="thermal_cancel">റദ്ദാക്കുക</string>
+    <string name="thermal_confirm">ശരി</string>
+    <string name="trig_temperature">പ്രാരംഭ താപനില</string>
+</resources>

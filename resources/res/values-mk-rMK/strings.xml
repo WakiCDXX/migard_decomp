@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">Сортирај по статус на активности</string>
+    <string name="app_name">Батерија и пeрформанси</string>
+    <string name="base_info">Основни информации</string>
+    <string name="checking_intranet">Се проверува интранет конекцијата…</string>
+    <string name="clear_temperature">Крајна темп</string>
+    <string name="cloud_addr_info">Информации за облакот</string>
+    <string name="confirm">OK</string>
+    <string name="connect_intranet_hint">Поврзете се на интранет</string>
+    <string name="delete_data_confirm">Избришете ја оваа ставка сега?</string>
+    <string name="enable_sleep_mode">Вклучете режим на спиење за да ја оптимизирате потрошувачката на батеријата преку ноќ</string>
+    <string name="failure">Грешка</string>
+    <string name="high_temp_benchmark_state">Прегревање</string>
+    <string name="high_temp_benchmark_state_message">Се чини дека уредот е сега прегреан. Користете ја оваа апликација откако уредот ќе се излади: </string>
+    <string name="high_temp_state">Прегреање</string>
+    <string name="high_temp_state_message">Вашиот уред се прегрева. Мобилниот интернет, Wi-Fi хостпотите, GPS и камерата ќе бидат ограничени.</string>
+    <string name="high_temp_state_message_orange_es">Некои апл. беа привремено исклучени за да се подобрат перформансите на уред.</string>
+    <string name="insert_data">Внеси податоци</string>
+    <string name="kill_all_back_pro_toast_message">Вашиот уред е прегреан. Некои од апл. кои работат во позадина се затворени засега.</string>
+    <string name="kill_pkg_toast_message">Не може да се користат апликациите поради прегревање на уредот</string>
+    <string name="kill_some_back_pro_toast_message">Вашиот уред е прегреан. Некои од апл. кои работат во позадина се затворени засега.</string>
+    <string name="lasttime_applist_cloud">Ажурирани апликации:</string>
+    <string name="lasttime_feature_cloud">Ажурирани карактеристики:</string>
+    <string name="modify_data">Измени податоци</string>
+    <string name="power_consume_abnormal_night">Батеријата се троши преку ноќ</string>
+    <string name="privacy">Политика за приватност</string>
+    <string name="save_data">Сочувај податоци</string>
+    <string name="screen_off_current">DC екран е искл.</string>
+    <string name="screen_on_current">DC екран е вкл.</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">Не може да се пронајдат апликации</string>
+    <string name="softbank_high_temp_toast_time_10min">Исклучен е блицот за да избегнете прегревање</string>
+    <string name="softbank_high_temp_toast_time_4min">Исклучен е блицот за да се избегне прегревање</string>
+    <string name="stricter_high_temp_state_message">Се чини дека овој уред е прегреан. Ќе можете да користите само Телефон и Контакти засега.</string>
+    <string name="sucess">Завршено</string>
+    <string name="thermal_cancel">Откажи</string>
+    <string name="thermal_confirm">OK</string>
+    <string name="trig_temperature">Почетна темп</string>
+</resources>

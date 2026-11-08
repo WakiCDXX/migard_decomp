@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">Egoeraren jarduera arabera sailkatu</string>
+    <string name="app_name">Bateria eta errendimendua</string>
+    <string name="base_info">Baseko informazioa</string>
+    <string name="checking_intranet">Interneterako konexioa egiaztatzen…</string>
+    <string name="clear_temperature">Bukaerako tenperatura</string>
+    <string name="cloud_addr_info">Hodeiaren informazioa</string>
+    <string name="confirm">Ados</string>
+    <string name="connect_intranet_hint">Intranetera konektatu</string>
+    <string name="delete_data_confirm">Ezabatu elementu hau orain?</string>
+    <string name="enable_sleep_mode">Loaldi modua aktibatu bateriaren erabilera gauetan optimizatzeko</string>
+    <string name="failure">Akatsa</string>
+    <string name="high_temp_benchmark_state">Gehiegi berotzen</string>
+    <string name="high_temp_benchmark_state_message">Badirudi gailu hau beroegi dagoela. Gailua freskatu eta gero, erabili honako aplikazio hau: </string>
+    <string name="high_temp_state">Gehiegi berotzen</string>
+    <string name="high_temp_state_message">Zure gailua gehiegi berotzen ari da. Datu mugikorrak, wifi sarbide-puntuak, GPS eta kamera murriztuko dira.</string>
+    <string name="high_temp_state_message_orange_es">Gailuaren errendimendua hobetzeko, aparatu batzuk aldi baterako desgaituak izan dira.</string>
+    <string name="insert_data">Datuak sartu</string>
+    <string name="kill_all_back_pro_toast_message">Zure gailua gehiegi berotu da. Atzealdean lanean dabiltzan aplikazio guztiak itxi dira oraingoz.</string>
+    <string name="kill_pkg_toast_message">Ezin dira aplikazioak erabili gailua gainberotu delako</string>
+    <string name="kill_some_back_pro_toast_message">Zure gailua gehiegi berotu da. Atzealdean lanean dabiltzan aplikazio batzuk itxi dira oraingoz.</string>
+    <string name="lasttime_applist_cloud">Eguneratutako aplikazioak:</string>
+    <string name="lasttime_feature_cloud">Eguneratutako elementuak:</string>
+    <string name="modify_data">Datuak aldatu</string>
+    <string name="power_consume_abnormal_night">Bateria gastatzen da gauetan</string>
+    <string name="privacy">Pribatutasun politika</string>
+    <string name="save_data">Datuak gorde</string>
+    <string name="screen_off_current">Pantaila KZ gabe</string>
+    <string name="screen_on_current">Pantaila KZ-ean</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">Ez da inolako aplikaziorik aurkitu</string>
+    <string name="softbank_high_temp_toast_time_10min">Linterna desaktibatu da gainberotzea saihesteko</string>
+    <string name="softbank_high_temp_toast_time_4min">Flasha desaktibatu da gainberotzea saihesteko</string>
+    <string name="stricter_high_temp_state_message">Badirudi gailu hau gainberotua dagoela. Telefonoa eta Kontaktuak soilik erabili ahal izango dituzu.</string>
+    <string name="sucess">Egina</string>
+    <string name="thermal_cancel">Ezeztatu</string>
+    <string name="thermal_confirm">Ados</string>
+    <string name="trig_temperature">Hasierako tenperatura</string>
+</resources>

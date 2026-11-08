@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">પ્રવૃત્તિની સ્થિતિ અનુસાર ગોઠવો</string>
+    <string name="app_name">બૅટરી અને કાર્યપ્રદર્શન</string>
+    <string name="base_info">બેઝ માહિતી</string>
+    <string name="checking_intranet">ઇન્ટ્રાનેટ કનેક્શન તપાસી રહ્યું છે…</string>
+    <string name="clear_temperature">ટેમ્પ સમાપ્ત કરો</string>
+    <string name="cloud_addr_info">ક્લાઉડ માહિતી</string>
+    <string name="confirm">ઠીક</string>
+    <string name="connect_intranet_hint">ઇન્ટરનેટ સાથે કનેક્ટ થઈ રહ્યું છે</string>
+    <string name="delete_data_confirm">આઇટમ હમણાં ડિલીટ કરીએ?</string>
+    <string name="enable_sleep_mode">રાત્રે બૅટરી વપરાશને ઑપ્ટિમાઇઝ કરવા માટે સ્લીપ મોડ ચાલુ કરો</string>
+    <string name="failure">ભૂલ</string>
+    <string name="high_temp_benchmark_state">વધુ ગરમ</string>
+    <string name="high_temp_benchmark_state_message">લાગે છે કે આ ડિવાઇસ હવે ખૂબ ગરમ થઈ ગયું છે. ડિવાઇસ ઠંડુ થયા પછી આ એપનો ઉપયોગ કરો: </string>
+    <string name="high_temp_state">વધુ પડતું ગરમ</string>
+    <string name="high_temp_state_message">તમારું ડિવાઇસ વધુ પડતું ગરમ થઈ ગયું છે. મોબાઇલ ડેટા, વાઈ-ફાઈ હૉટસ્પૉટ, GPS અને કૅમેરા પ્રતિબંધિત કરવામાં આવ્યા છે.</string>
+    <string name="high_temp_state_message_orange_es">ડિવાઇસની કામગીરીને બહેતર બનાવવા માટે, કેટલીક એપ્સ અસ્થાયી રૂપે અક્ષમ કરવામાં આવી છે.</string>
+    <string name="insert_data">ડેટા દાખલ કરો</string>
+    <string name="kill_all_back_pro_toast_message">તમારું ડિવાઇસ વધુ ગરમ થઈ ગયું છે. બેકગ્રાઉન્ડમાં ચાલતી તમામ એપ્સને હમણાં માટે બંધ કરી.</string>
+    <string name="kill_pkg_toast_message">ડિવાઇસની વધુ ગરમ થવાને કારણે એપ્સનો ઉપયોગ કરી શકાતો નથી</string>
+    <string name="kill_some_back_pro_toast_message">તમારું ડિવાઇસ વધુ ગરમ થઈ ગયું છે. બેકગ્રાઉન્ડમાં ચાલતી કેટલીક એપ્સને હમણાં માટે બંધ કરી.</string>
+    <string name="lasttime_applist_cloud">અપડેટ કરેલ ઍપ્લિકેશનો:</string>
+    <string name="lasttime_feature_cloud">અપડેટ કરેલ સુવિધાઓ:</string>
+    <string name="modify_data">ડેટા સંશોધિત કરો</string>
+    <string name="power_consume_abnormal_night">બૅટરી રાત્રે ખાલી થાય છે</string>
+    <string name="privacy">ગોપનીયતા નીતિ</string>
+    <string name="save_data">ડેટા સેવ કરો</string>
+    <string name="screen_off_current">સ્ક્રીન ચાલુ DC</string>
+    <string name="screen_on_current">સ્ક્રીન ચાલુ DC</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">કોઇ ઍપ્લિકેશનો શોધી શક્યાં નથી</string>
+    <string name="softbank_high_temp_toast_time_10min">ઓવરહિટીંગ ટાળવા માટે ફ્લેશ બંધ કર્યું</string>
+    <string name="softbank_high_temp_toast_time_4min">ઓવરહિટીંગ ટાળવા માટે ફ્લેશ બંધ કર્યું</string>
+    <string name="stricter_high_temp_state_message">એવું લાગે છે કે આ ડિવાઇસ વધુ ગરમ થઈ ગયું છે. તમે હમણાં માટે ફક્ત ફોન અને સંપર્કોનો ઉપયોગ કરી શકશો.</string>
+    <string name="sucess">પૂર્ણ થયું</string>
+    <string name="thermal_cancel">રદ્દ કરો</string>
+    <string name="thermal_confirm">ઓકે</string>
+    <string name="trig_temperature">ટેમ્પ શરૂ કરો</string>
+</resources>

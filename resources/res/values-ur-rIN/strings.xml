@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">فعال حیثیت کے مطابق چھانٹیں</string>
+    <string name="app_name">بیٹری اور کارکردگی</string>
+    <string name="base_info">بیس کی جانکاری</string>
+    <string name="checking_intranet">انٹرنیٹ کنکشن چیک کیا جا رہا ہے…</string>
+    <string name="clear_temperature">اختتام کا درجہ حرارت</string>
+    <string name="cloud_addr_info">کلاؤڈ معلومات</string>
+    <string name="confirm">ٹھیک</string>
+    <string name="connect_intranet_hint">انٹرانیٹ سے مربوط کریں</string>
+    <string name="delete_data_confirm">ابھی یہ آئٹم حذف کریں؟</string>
+    <string name="enable_sleep_mode">رات میں بیٹری کے استعمال کو آپٹمائز کرنے کے لیے سلیپ موڈ چالو کریں</string>
+    <string name="failure">خرابی</string>
+    <string name="high_temp_benchmark_state">زیادہ گرم</string>
+    <string name="high_temp_benchmark_state_message">لگتا ہے یہ ڈیوائس ابھی بہت گرم ہے۔ ڈیوائس ٹھنڈا ہونے کے بعد اس ایپ کا استعمال کریں: </string>
+    <string name="high_temp_state">زیادہ گرم</string>
+    <string name="high_temp_state_message">آپ کا ڈیوائس زیادہ گرم ہو رہا ہے۔ موبائل ڈیٹا, وائی-فائی ہاٹ سپاٹ, جی پی ایس, اور کیمرا محدود ہو جائے گا۔</string>
+    <string name="high_temp_state_message_orange_es">ڈیوائس کی کارکردگی کو بہتر بنانے کے لیے, کچھ ایپس کو عارضی طور پر غیر فعال کر دیا گیا ہے۔</string>
+    <string name="insert_data">ڈیٹا داخل کریں</string>
+    <string name="kill_all_back_pro_toast_message">آپ کا ڈیوائس بہت زیادہ گرم ہو گیا ہے۔ ابھی پس منظر میں چلنے والے تمام ایپس بند کریں۔</string>
+    <string name="kill_pkg_toast_message">ڈیوائس زیادہ گرم ہونے کی وجہ سے ایپس استعمال نہیں کر سکتے</string>
+    <string name="kill_some_back_pro_toast_message">آپ کا ڈیوائس بہت زیادہ گرم ہو گیا ہے۔ ابھی پس منظر میں چلنے والے کچھ ایپس بند کریں۔</string>
+    <string name="lasttime_applist_cloud">اپ ڈیٹ شدہ ایپس:</string>
+    <string name="lasttime_feature_cloud">اپ ڈیٹ شدہ خصوصیات:</string>
+    <string name="modify_data">ڈیٹا ترمیم کریں</string>
+    <string name="power_consume_abnormal_night">بیٹری رات میں ختم ہو گئی</string>
+    <string name="privacy">رازداری پالیسی</string>
+    <string name="save_data">ڈیٹا محفوظ کریں</string>
+    <string name="screen_off_current">اسکرین آن ہونے پر ڈی سی</string>
+    <string name="screen_on_current">اسکرین آن ہونے پر ڈی سی</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">کوئی ایپس نہیں ملے</string>
+    <string name="softbank_high_temp_toast_time_10min">زیادہ گرم ہونے سے بچنے کے لیے فلیش لائٹ کو آف کر دیا گیا</string>
+    <string name="softbank_high_temp_toast_time_4min">زیادہ گرم ہونے سے بچنے کے لیے فلیش کو آف کر دیا گیا</string>
+    <string name="stricter_high_temp_state_message">لگتا ہے یہ ڈیوائس زیادہ گرم ہو گیا ہے۔ ابھی کے لیے آپ صرف فون اور رابطے استعمال کر سکیں گے۔</string>
+    <string name="sucess">ہوگیا</string>
+    <string name="thermal_cancel">منسوخ کریں</string>
+    <string name="thermal_confirm">ٹھیک</string>
+    <string name="trig_temperature">شروع کا درجہ حرارت</string>
+</resources>

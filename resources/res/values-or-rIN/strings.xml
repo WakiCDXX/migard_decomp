@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">କାର୍ଯ୍ୟକଳାପ ସ୍ଥିତି ଅନୁସାରେ ସର୍ଟ କରନ୍ତୁ</string>
+    <string name="app_name">ବ୍ୟାଟେରୀ ଏବଂ କାର୍ଯ୍ୟଦକ୍ଷତା</string>
+    <string name="base_info">ମୂଳ ସୂଚନା</string>
+    <string name="checking_intranet">ଇଣ୍ଟ୍ରାନେଟ ସଂଯୋଗ ଚେକ୍ କରୁଛି…</string>
+    <string name="clear_temperature">ସର୍ବନିମ୍ନ ତାପମାତ୍ରା</string>
+    <string name="cloud_addr_info">କ୍ଲାଉଡ୍‌ ସୂଚନା</string>
+    <string name="confirm">ଓକେ</string>
+    <string name="connect_intranet_hint">ଇଣ୍ଟ୍ରାନେଟ ସହ ସଂଯୋଗ କରନ୍ତୁ</string>
+    <string name="delete_data_confirm">ବର୍ତ୍ତମାନ ଏହି ଆଇଟମକୁ ଡିଲିଟ କରିବେ?</string>
+    <string name="enable_sleep_mode">ରାତିରେ ବ୍ୟାଟେରୀ ବ୍ୟବହାର ଅପଟିମାଇଜ କରିବାକୁ ନିଦ ମୋଡ ଚାଲୁ କରନ୍ତୁ</string>
+    <string name="failure">ତ୍ରୁଟି</string>
+    <string name="high_temp_benchmark_state">ଅଧିକ ଗରମ</string>
+    <string name="high_temp_benchmark_state_message">ଜଣାପଡ଼ୁଛି ଏହି ଡିଭାଇସ ବର୍ତ୍ତମାନ ବହୁତ ଗରମ ହୋଇଛି। ଡିଭାଇସଟି ଥଣ୍ଡା ହେବା ପରେ ଏହି ଆପ୍ ବ୍ୟବହାର କରନ୍ତୁ: </string>
+    <string name="high_temp_state">ଅତ୍ୟଧିକ ଗରମ ହୋଇଛି</string>
+    <string name="high_temp_state_message">ଆପଣଙ୍କ ଡିଭାଇସ ଅତି ଗରମ ହେଉଛି | ମୋବାଇଲ୍‌ ଡାଟା, Wi-Fi ହଟ୍‍ସ୍ପଟ୍‍, GPS ଏବଂ କ୍ୟାମେରା ପ୍ରତିବନ୍ଧିତ ହେବ |</string>
+    <string name="high_temp_state_message_orange_es">ଡିଭାଇସ କାର୍ଯ୍ୟଦକ୍ଷତା ବଢ଼ାଇବାକୁ କେତେକ ଆପ୍ସ ଅସ୍ଥାୟୀ ରୂପେ ଅକ୍ଷମ ହୋଇଛି।</string>
+    <string name="insert_data">ଡାଟା ଇନସାର୍ଟ କରନ୍ତୁ</string>
+    <string name="kill_all_back_pro_toast_message">ଆପଣଙ୍କ ଡିଭାଇସଟି ଅତ୍ୟଧିକ ଗରମ ହୋଇଛି। ବର୍ତ୍ତମାନ ପାଇଁ ପୃଷ୍ଠଭୂମିରେ ଚାଲୁଥିବା ସମସ୍ତ ଆପକୁ ବନ୍ଦ କରାଯାଇଛି।</string>
+    <string name="kill_pkg_toast_message">ଡିଭାଇସ ଅଧିକ ଗରମ ହେଉଥିବା ଯୋଗୁଁ ଆପ୍ସ ବ୍ୟବହାର କରିପାରିବ ନାହିଁ</string>
+    <string name="kill_some_back_pro_toast_message">ଆପଣଙ୍କ ଡିଭାଇସଟି ଅତ୍ୟଧିକ ଗରମ ହୋଇଛି। ବର୍ତ୍ତମାନ ପାଇଁ ପୃଷ୍ଠଭୂମିରେ ଚାଲୁଥିବା କେତେକ ଆପକୁ ବନ୍ଦ କରାଯାଇଛି।</string>
+    <string name="lasttime_applist_cloud">ଅପଡେଟ ହୋଇଥିବା ଆପ୍ସ:</string>
+    <string name="lasttime_feature_cloud">ଅପଡେଟ୍‌ ହୋ‌ଇଥିବା ଫିଚରଗୁଡ଼ିକ:</string>
+    <string name="modify_data">ଡାଟା ପରିବର୍ତ୍ତନ କରନ୍ତୁ</string>
+    <string name="power_consume_abnormal_night">ରାତିରେ ବ୍ୟାଟେରୀ ଡ୍ରେନ ହୁଏ</string>
+    <string name="privacy">ଗୋପନୀୟତା ନୀତି</string>
+    <string name="save_data">ଡାଟା ସେଭ୍ କରନ୍ତୁ</string>
+    <string name="screen_off_current">ସ୍କ୍ରିନ ବନ୍ଦ DC</string>
+    <string name="screen_on_current">ସ୍କ୍ରିନ ଚାଲୁ DC</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">କୌଣସି ଆପ୍ସର ସନ୍ଧାନ ମିଳିପାରିଲା ନାହିଁ</string>
+    <string name="softbank_high_temp_toast_time_10min">ଅଧିକ ଗରମକୁ ଏଡ଼ାଇବାକୁ ଫ୍ଲାସଲାଇଟକୁ ବନ୍ଦ କରାଯାଇଛି</string>
+    <string name="softbank_high_temp_toast_time_4min">ଅଧିକ ଗରମକୁ ଏଡ଼ାଇବାକୁ ଫ୍ଲାସକୁ ବନ୍ଦ କରାଯାଇଛି</string>
+    <string name="stricter_high_temp_state_message">ଜଣାପଡ଼ୁଛି ଏହି ଡିଭାଇସଟି ଅତ୍ୟଧିକ ଗରମ ହୋଇଛି। ବର୍ତ୍ତମାନ ଆପଣ କେବଳ ଫୋନ୍ ଏବଂ ସମ୍ପର୍କ ବ୍ୟବହାର କରିବାକୁ ସକ୍ଷମ ହେବେ।</string>
+    <string name="sucess">ସମ୍ପୂର୍ଣ୍ଣ</string>
+    <string name="thermal_cancel">ବାତିଲ କରନ୍ତୁ</string>
+    <string name="thermal_confirm">ଓକେ</string>
+    <string name="trig_temperature">ଆରମ୍ଭ ତାପମାତ୍ରା</string>
+</resources>

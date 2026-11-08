@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">Panga kwa hali ya shughuli</string>
+    <string name="app_name">Betri na utendakazi</string>
+    <string name="base_info">Maelezo ya msingi</string>
+    <string name="checking_intranet">Inakagua muunganisho wa intaneti…</string>
+    <string name="clear_temperature">Halijoto ya mwisho</string>
+    <string name="cloud_addr_info">Maelezo ya wingu</string>
+    <string name="confirm">Sawa</string>
+    <string name="connect_intranet_hint">Unganisha kwa intaneti</string>
+    <string name="delete_data_confirm">Ungependa kufuta kipengee hiki sasa?</string>
+    <string name="enable_sleep_mode">Washa Hali ya kulala ili kuboresha matumizi ya betri usiku</string>
+    <string name="failure">Hitilafu</string>
+    <string name="high_temp_benchmark_state">Kupata joto kupita kiasi</string>
+    <string name="high_temp_benchmark_state_message">Inaonekana kifaa hiki kimezidi joto. Tumia programu hii baada ya kifaa kupoa: </string>
+    <string name="high_temp_state">Kupata joto kupita kiasi</string>
+    <string name="high_temp_state_message">Kifaa chako kinapata joto kupita kiasi. Data ya mtandao wa simu, mitandao pepe ya Wi-Fi, GPS, na kamera zitazuiwa.</string>
+    <string name="high_temp_state_message_orange_es">Ili kuboresha utendakazi wa kifaa, baadhi ya programu zimezimwa kwa muda.</string>
+    <string name="insert_data">Weka data</string>
+    <string name="kill_all_back_pro_toast_message">Kifaa chako kina joto kupita kiasi. Kimefunga programu zote zinazoendeshwa chinichini kwa sasa.</string>
+    <string name="kill_pkg_toast_message">Haiwezi kutumia programu kutokana na kifaa kupata joto kupita kiasi</string>
+    <string name="kill_some_back_pro_toast_message">Kifaa chako kina joto kupita kiasi. Kimefunga baadhi ya programu zinazoendeshwa chinichini kwa sasa.</string>
+    <string name="lasttime_applist_cloud">Programu zilizosasishwa:</string>
+    <string name="lasttime_feature_cloud">Vipengele vilivyosasishwa:</string>
+    <string name="modify_data">Rekebisha data</string>
+    <string name="power_consume_abnormal_night">Betri hupunguzwa nishati usiku</string>
+    <string name="privacy">Sera ya Faragha</string>
+    <string name="save_data">Okoa data</string>
+    <string name="screen_off_current">Skrini imezimwa kwenye DC</string>
+    <string name="screen_on_current">Skrini imewashwa kwenye DC</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">Haikuweza kupata programu zozote</string>
+    <string name="softbank_high_temp_toast_time_10min">Imezima tochi ili kuepuka kupata joto kupita kiasi</string>
+    <string name="softbank_high_temp_toast_time_4min">Mwako umezimwa ili kuepuka kupata joto kupita kiasi</string>
+    <string name="stricter_high_temp_state_message">Inaonekana kifaa hiki kina joto kupita kiasi. Utaweza kutumia Simu na Anwani pekee kwa sasa.</string>
+    <string name="sucess">Imekamilika</string>
+    <string name="thermal_cancel">Ghairi</string>
+    <string name="thermal_confirm">Sawa</string>
+    <string name="trig_temperature">Halijoto ya kuanza</string>
+</resources>

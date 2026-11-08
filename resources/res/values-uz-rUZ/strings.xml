@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">Faollik bo‘yicha saralash</string>
+    <string name="app_name">Batareya va ishlash</string>
+    <string name="base_info">Asosiy ma’lumot</string>
+    <string name="checking_intranet">Intranet bog‘lanishi tekshirilmoqda…</string>
+    <string name="clear_temperature">Oxirgi harorat</string>
+    <string name="cloud_addr_info">Bulut ma’lumoti</string>
+    <string name="confirm">OK</string>
+    <string name="connect_intranet_hint">Intranetga bog‘lanish</string>
+    <string name="delete_data_confirm">Ushbu element o‘chirilsinmi?</string>
+    <string name="enable_sleep_mode">Tunda batareya ishlatilishi optimallashtirish uchun uxlash rejimini yoqing</string>
+    <string name="failure">Xato</string>
+    <string name="high_temp_benchmark_state">Qizib ketish</string>
+    <string name="high_temp_benchmark_state_message">Ushbu qurilma hozir juda qizib ketganga o‘xshaydi. Qurilma sovigandan so‘ng ushbu ilovadan foydalaning: </string>
+    <string name="high_temp_state">Qizib ketish</string>
+    <string name="high_temp_state_message">Qurilmangiz qizib ketmoqda. Mobil internet, Wi-Fi kirish nuqtasi, GPS va kamera o‘chiriladi.</string>
+    <string name="high_temp_state_message_orange_es">Qurilmaning ishlashini yaxshilash uchun baʼzi ilovalar vaqtincha o‘chirilgan.</string>
+    <string name="insert_data">Ma’lumot kiritish</string>
+    <string name="kill_all_back_pro_toast_message">Qurilmangiz haddan tashqari qizib ketgan. Hozircha fonda ishlaydigan barcha ilovalar yopildi.</string>
+    <string name="kill_pkg_toast_message">Qurilmaning qizishi tufayli ilovalardan foydalana olmaysiz</string>
+    <string name="kill_some_back_pro_toast_message">Qurilmangiz haddan tashqari qizib ketgan. Hozircha fonda ishlaydigan ba’zi ilovalar yopildi.</string>
+    <string name="lasttime_applist_cloud">Yangilangan ilovalar:</string>
+    <string name="lasttime_feature_cloud">Yangilangan xususiyatlar:</string>
+    <string name="modify_data">Ma’lumotlarni o‘zgartirish</string>
+    <string name="power_consume_abnormal_night">Batareya tunda tez tugaydi</string>
+    <string name="privacy">Maxfiylik Siyosati</string>
+    <string name="save_data">Ma’lumotlarni saqlash</string>
+    <string name="screen_off_current">DC ekrani o‘chiq</string>
+    <string name="screen_on_current">DC ekrani yoniq</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">Ilovalar topilmadi</string>
+    <string name="softbank_high_temp_toast_time_10min">Haddan tashqari issiqlikdan saqlanish uchun chiroq o‘chirildi</string>
+    <string name="softbank_high_temp_toast_time_4min">Haddan tashqari issiqlikdan saqlanish uchun chiroq o‘chirildi</string>
+    <string name="stricter_high_temp_state_message">Ushbu qurilma haddan tashqari qizib ketganga o‘xshaydi. Hozircha faqat Telefon va Kontaktlardan foydalana olasiz.</string>
+    <string name="sucess">Tayyor</string>
+    <string name="thermal_cancel">Bekor qilish</string>
+    <string name="thermal_confirm">OK</string>
+    <string name="trig_temperature">Boshlang‘ich harorat</string>
+</resources>

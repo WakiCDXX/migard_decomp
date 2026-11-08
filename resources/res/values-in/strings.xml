@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">Urut per status aktivitas</string>
+    <string name="app_name">Baterai dan performa</string>
+    <string name="base_info">Info dasar</string>
+    <string name="checking_intranet">Memeriksa koneksi intranet…</string>
+    <string name="clear_temperature">Suhu akhir</string>
+    <string name="cloud_addr_info">Info cloud</string>
+    <string name="confirm">Oke</string>
+    <string name="connect_intranet_hint">Hubungkan ke intranet</string>
+    <string name="delete_data_confirm">Hapus item ini sekarang?</string>
+    <string name="enable_sleep_mode">Hidupkan mode Tidur untuk mengoptimalkan penggunaan baterai di malam hari</string>
+    <string name="failure">Bermasalah</string>
+    <string name="high_temp_benchmark_state">Terlalu panas</string>
+    <string name="high_temp_benchmark_state_message">Sepertinya perangkat ini terlalu panas sekarang. Gunakan apl ini setelah perangkat menjadi dingin: </string>
+    <string name="high_temp_state">Terlalu panas</string>
+    <string name="high_temp_state_message">Perangkat Anda terlalu panas. Data seluler, hotspot Wi-Fi, GPS, dan kamera akan dibatasi.</string>
+    <string name="high_temp_state_message_orange_es">Untuk meningkatkan kinerja perangkat, beberapa aplikasi telah dinonaktifkan untuk sementara.</string>
+    <string name="insert_data">Memasukkan data</string>
+    <string name="kill_all_back_pro_toast_message">Perangkat Anda terlalu panas. Seluruh apl yang berjalan di latar belakang ditutup untuk saat ini.</string>
+    <string name="kill_pkg_toast_message">Tidak dapat menggunakan apl ini karena panas berlebih pada perangkat</string>
+    <string name="kill_some_back_pro_toast_message">Perangkat Anda terlalu panas. Beberapa apl yang berjalan di latar belakang ditutup untuk saat ini.</string>
+    <string name="lasttime_applist_cloud">Apl diperbarui:</string>
+    <string name="lasttime_feature_cloud">Fitur diperbarui:</string>
+    <string name="modify_data">Modifikasi data</string>
+    <string name="power_consume_abnormal_night">Baterai terkuras di malam hari</string>
+    <string name="privacy">Kebijakan Privasi</string>
+    <string name="save_data">Simpan data</string>
+    <string name="screen_off_current">Layar mati DC</string>
+    <string name="screen_on_current">Layar hidup DC</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">Tidak dapat menemukan apl apapun</string>
+    <string name="softbank_high_temp_toast_time_10min">Senter dimatikan untuk menghindari panas berlebih</string>
+    <string name="softbank_high_temp_toast_time_4min">Flash dimatikan untuk menghindari panas berlebih</string>
+    <string name="stricter_high_temp_state_message">Sepertinya panas berlebih pada perangkat ini. Anda hanya dapat menggunakan apl Telepon dan Kontak sekarang.</string>
+    <string name="sucess">Selesai</string>
+    <string name="thermal_cancel">Batal</string>
+    <string name="thermal_confirm">Oke</string>
+    <string name="trig_temperature">Suhu awal</string>
+</resources>

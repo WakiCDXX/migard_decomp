@@ -1,0 +1,59 @@
+{
+  "fucSwitch": "false",
+  "threshold": 1.1,
+  "deviceList": "umi,cmi",
+  "allLogTypes": 0,
+  "sceneList": [
+    {
+      "id": 1,
+      "type": 1,
+      "name": "com.duokan.reader",
+      "logType": 10,
+      "power": 200,
+      "deviceConfigList": [
+        {
+          "deviceName":"umi",
+          "logType":0,
+          "power":200
+        },
+        {
+          "deviceName":"cmi",
+          "logType":0,
+          "power":200
+        },
+        {
+          "deviceName":"crux",
+          "power":200
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "name": "com.qiyi.video",
+      "logType": 303,
+      "power": 300
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "name": "com.tencent.tmgp.sgame",
+      "logType": 271,
+      "power": 700
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "name": "com.tencent.mm",
+      "logType": 3,
+      "power": 250
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "name": "com.ss.android.ugc.aweme",
+      "logType": 9,
+      "power": 260
+    }
+  ]
+}

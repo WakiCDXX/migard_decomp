@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">Poredaj po statusu aktivnosti</string>
+    <string name="app_name">Baterija i performanse</string>
+    <string name="base_info">Osnovne informacije</string>
+    <string name="checking_intranet">Provjera intranet konekcije…</string>
+    <string name="clear_temperature">Završna temperatura</string>
+    <string name="cloud_addr_info">Podaci o Cloud-u</string>
+    <string name="confirm">OK</string>
+    <string name="connect_intranet_hint">Povezivanje na intranet</string>
+    <string name="delete_data_confirm">Sada obriši ovu stavku?</string>
+    <string name="enable_sleep_mode">Uključite mod mirovanja za optimiziranje korištenja baterije noću</string>
+    <string name="failure">Greška</string>
+    <string name="high_temp_benchmark_state">Pregrijavanje</string>
+    <string name="high_temp_benchmark_state_message">Čini se da je ovaj uređaj sada prevruć. Koristite ovu aplikaciju nakon što se uređaj ohladi: </string>
+    <string name="high_temp_state">Pregrijavanje</string>
+    <string name="high_temp_state_message">Vaš uređaj se pregrijava. Mobilni podaci, Wi-Fi hotspotovi, GPS i kamera će biti ograničeni.</string>
+    <string name="high_temp_state_message_orange_es">Za poboljšanje performansi uređaja, neke aplikacije su privremeno onemogućene.</string>
+    <string name="insert_data">Unesi podatke</string>
+    <string name="kill_all_back_pro_toast_message">Vaš uređaj se pregrijao. Za sada su zatvorene sve aplikacije pokrenute u pozadini.</string>
+    <string name="kill_pkg_toast_message">Ne mogu koristiti aplikacije zbog pregrijavanja uređaja</string>
+    <string name="kill_some_back_pro_toast_message">Vaš uređaj se pregrijao. Za sada su zatvorene neke aplikacije pokrenute u pozadini.</string>
+    <string name="lasttime_applist_cloud">Ažurirane aplikacije:</string>
+    <string name="lasttime_feature_cloud">Ažurirane funkcije:</string>
+    <string name="modify_data">Uredi podatke</string>
+    <string name="power_consume_abnormal_night">Baterija se prazni noću</string>
+    <string name="privacy">Odredbe o privatnosti</string>
+    <string name="save_data">Sačuvaj podatke</string>
+    <string name="screen_off_current">Ekran DC isk</string>
+    <string name="screen_on_current">Ekran DC uk</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">Nije moguće pronaći nijednu aplikaciju</string>
+    <string name="softbank_high_temp_toast_time_10min">Isključena je lampa radi izbjegavanja pregrijavanja</string>
+    <string name="softbank_high_temp_toast_time_4min">Isključen flash za izbjegavanje pregrijavanja</string>
+    <string name="stricter_high_temp_state_message">Čini se kao da se ovaj uređaj pregrijava. Za sada ćete moći koristiti samo Telefon i Kontakte.</string>
+    <string name="sucess">Gotovo</string>
+    <string name="thermal_cancel">Otkaži</string>
+    <string name="thermal_confirm">OK</string>
+    <string name="trig_temperature">Početna temperatura</string>
+</resources>

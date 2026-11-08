@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">Տեսակավորել ըստ գործունեության կարգավիճակի</string>
+    <string name="app_name">Մարտկոց և կատարողականություն</string>
+    <string name="base_info">Հիմնական տեղեկատվություն</string>
+    <string name="checking_intranet">Ինտրանետ կապի ստուգում…</string>
+    <string name="clear_temperature">Ավարտի ջերմաստիճանը</string>
+    <string name="cloud_addr_info">Cloud տեղեկատվություն</string>
+    <string name="confirm">Լավ</string>
+    <string name="connect_intranet_hint">Միացեք ինտերնետին</string>
+    <string name="delete_data_confirm">Ջնջե՞լ այս տարրերը հիմա:</string>
+    <string name="enable_sleep_mode">Միացնել Քնի ռեժիմը բարելավելու համար մարտկոցի սպառումը գիշերը</string>
+    <string name="failure">Սխալ</string>
+    <string name="high_temp_benchmark_state">Գերտաքացում</string>
+    <string name="high_temp_benchmark_state_message">Կարծես թե այս սարքը հիմա շատ տաք է: Օգտագործեք այս ծրագիրը, երբ սարքը սառչի. </string>
+    <string name="high_temp_state">Գերտաքացում</string>
+    <string name="high_temp_state_message">Ձեր սարքը ողողում է: Բջջային տվյալները, Wi-Fi հոսանքները, GPS-ը և տեսախցիկը սահմանափակվելու են:</string>
+    <string name="high_temp_state_message_orange_es">Սարքի աշխատանքը բարելավելու համար որոշ հավելվածներ ժամանակավորապես անջատվել են:</string>
+    <string name="insert_data">Տեղադրեք տվյալները</string>
+    <string name="kill_all_back_pro_toast_message">Ձեր սարքը գերտաքացում է: Այժմ փակեք ֆոնին աշխատող բոլոր ծրագրերը:</string>
+    <string name="kill_pkg_toast_message">Չի կարող հավելվածներ օգտագործել սարքի գերտաքացման պատճառով</string>
+    <string name="kill_some_back_pro_toast_message">Ձեր սարքը գերտաքացում է: Փակեց որոշ ծրագրեր, որոնք այժմ անցնում են ֆոնին:</string>
+    <string name="lasttime_applist_cloud">Թարմացված հավելվածներ՝</string>
+    <string name="lasttime_feature_cloud">Թարմացված հնարավորություններ՝</string>
+    <string name="modify_data">Փոփոխել տվյալները</string>
+    <string name="power_consume_abnormal_night">Մարտկոցը սպառվում է գիշերը</string>
+    <string name="privacy">Գաղտնիության Քաղաքականություն</string>
+    <string name="save_data">Պահպանել տվյալները</string>
+    <string name="screen_off_current">Էկրանը անջատված է DC-ից</string>
+    <string name="screen_on_current">Էկրանը DC-ում</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">Չհաջողվեց գտնել հավելվածներ</string>
+    <string name="softbank_high_temp_toast_time_10min">Անջատեց լապտերը գերտաքացումից խուսափելու համար</string>
+    <string name="softbank_high_temp_toast_time_4min">Անջատեց բռնկումը`գերտաքացումից խուսափելու համար</string>
+    <string name="stricter_high_temp_state_message">Կարծես թե այս սարքը գերտաքացել է։ Դուք առայժմ կկարողանաք օգտագործել միայն Հեռախոսը և Կոնտակտները:</string>
+    <string name="sucess">Պատրաստ է</string>
+    <string name="thermal_cancel">Չեղարկել</string>
+    <string name="thermal_confirm">Լավ</string>
+    <string name="trig_temperature">Սկսելու ջերմաստիճանը</string>
+</resources>

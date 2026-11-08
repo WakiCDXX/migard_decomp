@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">செயல் நிலையின்படி வரிசைப்படுத்து</string>
+    <string name="app_name">பேட்டரி மற்றும் செயல்திறன்</string>
+    <string name="base_info">அடிப்படை தகவல்</string>
+    <string name="checking_intranet">இன்ட்ராநெட் இணைப்பைச் சரிபார்க்கிறது…</string>
+    <string name="clear_temperature">முடிவு வெப்பநிலை</string>
+    <string name="cloud_addr_info">கிளவுட் விவரம்</string>
+    <string name="confirm">சரி</string>
+    <string name="connect_intranet_hint">இண்ட்ராநெட்டுடன் இணைக்கவும்</string>
+    <string name="delete_data_confirm">இந்த உருப்படியை இப்போது நீக்கவா?</string>
+    <string name="enable_sleep_mode">இரவில் பேட்டரி பயன்பாட்டை மேம்படுத்த ஸ்லீப் பயன்முறையை இயக்கவும்</string>
+    <string name="failure">பிழை</string>
+    <string name="high_temp_benchmark_state">அதிகம் சூடாகிவிட்டது</string>
+    <string name="high_temp_benchmark_state_message">இப்போது சாதனம் மிகவும் சூடாக இருப்பதாகத் தெரிகிறது. சாதனம் குளிர்வடைந்தவுடன் இந்தச் செயலியைப் பயன்படுத்தவும்: </string>
+    <string name="high_temp_state">அதிகம் சூடாகிவிட்டது</string>
+    <string name="high_temp_state_message">உங்கள் சாதனம் சூடாகிறது. மொபைல் தரவு, Wi-Fi ஹாட்ஸ்பாட்கள், GPS மற்றும் கேமரா ஆகியவை கட்டுப்படுத்தப்படும்.</string>
+    <string name="high_temp_state_message_orange_es">சாதனத்தின் செயல்திறனை மேம்படுத்த, சில செயலிகள் தற்காலிகமாக முடக்கப்பட்டுள்ளன</string>
+    <string name="insert_data">தரவை உள்ளிடவும்</string>
+    <string name="kill_all_back_pro_toast_message">உங்கள் சாதனம் அதிக வெப்பமடைந்தது. தற்போது பின்னணியில் இயங்கும் எல்லா செயலிகளும் மூடப்பட்டன.</string>
+    <string name="kill_pkg_toast_message">சாதனம் அதிகம் சூடாவதால் செயலிகளைப் பயன்படுத்த முடியவில்லை</string>
+    <string name="kill_some_back_pro_toast_message">உங்கள் சாதனம் அதிக வெப்பமடைகிறது. தற்போது பின்னணியில் இயங்கும் சில செயலிகள் மூடப்பட்டன.</string>
+    <string name="lasttime_applist_cloud">புதுப்பிக்கப்பட்ட பயன்பாடுகள்:</string>
+    <string name="lasttime_feature_cloud">புதுப்பிக்கப்பட்ட அம்சங்கள்:</string>
+    <string name="modify_data">தரவை மாற்று</string>
+    <string name="power_consume_abnormal_night">பேட்டரி இரவில் காலியானது</string>
+    <string name="privacy">தனியுரிமைக் கொள்கை</string>
+    <string name="save_data">தரவைச் சேமி</string>
+    <string name="screen_off_current">DC இல் திரை அணைப்பு</string>
+    <string name="screen_on_current">DC இல் திரை இயக்கம்</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">பயன்பாடுகள் எதையும் கண்டுபிடிக்க முடியவில்லை</string>
+    <string name="softbank_high_temp_toast_time_10min">அதிகம் சூடாவதைத் தவிர்க்க ஃபிளாஷ் அணைக்கப்பட்டது</string>
+    <string name="softbank_high_temp_toast_time_4min">அதிகம் சூடாவதைத் தவிர்க்க ஃபிளாஷ் அணைக்கப்பட்டது</string>
+    <string name="stricter_high_temp_state_message">சாதனம் அதிகம் சூடாகி விட்டதாகத் தெரிகிறது. ஃபோன் மற்றும் தொடர்புகளை மட்டுமே நீங்கள் இப்போது பயன்படுத்த முடியும்.</string>
+    <string name="sucess">முடிந்தது</string>
+    <string name="thermal_cancel">ரத்துசெய்</string>
+    <string name="thermal_confirm">சரி</string>
+    <string name="trig_temperature">தொடக்க வெப்பநிலை</string>
+</resources>

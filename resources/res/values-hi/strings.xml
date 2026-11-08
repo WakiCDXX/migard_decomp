@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">गतिविधि स्थिति द्वारा सॉर्ट करें</string>
+    <string name="app_name">बैटरी और परफ़ॉर्मेंस</string>
+    <string name="base_info">बेस की जानकारी</string>
+    <string name="checking_intranet">इंट्रानेट कनेक्शन की जांच की जा रही है…</string>
+    <string name="clear_temperature">खत्म होने के समय तापमान</string>
+    <string name="cloud_addr_info">क्लाउड जानकारी</string>
+    <string name="confirm">ठीक</string>
+    <string name="connect_intranet_hint">इंटरनेट से कनेक्ट करें</string>
+    <string name="delete_data_confirm">इस आइटम को अभी हटाना चाहते हैं?</string>
+    <string name="enable_sleep_mode">रात में बैटरी उपयोग ऑप्टिमाइज़ करने के लिए स्लीप मोड चालू करें</string>
+    <string name="failure">त्रुटि</string>
+    <string name="high_temp_benchmark_state">अधिक गर्म होना</string>
+    <string name="high_temp_benchmark_state_message">ऐसा लगता है कि यह डिवाइस अभी बहुत गर्म है. इस ऐप्प का इस्तेमाल डिवाइस के ठंडा होने के बाद करें: </string>
+    <string name="high_temp_state">अधिक गर्म होना</string>
+    <string name="high_temp_state_message">आपका डिवाइस बहुत गर्म हो गया है. मोबाइल डेटा वाई-फ़ाई हॉटस्पॉट, जीपीएस और कैमरा प्रतिबंधित कर दिए जाएंगे.</string>
+    <string name="high_temp_state_message_orange_es">डिवाइस के परफ़ॉर्मेंस को बेहतर करने के लिए, कुछ ऐप्स को अस्थायी रूप से अक्षम कर दिया गया है.</string>
+    <string name="insert_data">डेटा इन्सर्ट करें</string>
+    <string name="kill_all_back_pro_toast_message">आपका डिवाइस ज़्यादा गर्म हो गया है. फिलहाल बैकग्राउंड में चल रहे सभी ऐप्स को बंद कर दिया गया है.</string>
+    <string name="kill_pkg_toast_message">डिवाइस के अधिक गर्म हो जाने की वजह से ऐप्स का इस्तेमाल नहीं किया जा सकता</string>
+    <string name="kill_some_back_pro_toast_message">आपका डिवाइस ज़्यादा गर्म हो गया है. फिलहाल बैकग्राउंड में चल रहे कुछ ऐप्स को बंद कर दिया गया है.</string>
+    <string name="lasttime_applist_cloud">अपडेट किए गए ऐप्स:</string>
+    <string name="lasttime_feature_cloud">अपडेट किए गए फ़ीचर:</string>
+    <string name="modify_data">डेटा में बदलाव करें</string>
+    <string name="power_consume_abnormal_night">बैटरी की खपत रात में अधिक हो रही है</string>
+    <string name="privacy">गोपनीयता नीति</string>
+    <string name="save_data">डेटा सेव करें</string>
+    <string name="screen_off_current">स्क्रीन बंद डीसी</string>
+    <string name="screen_on_current">स्क्रीन चालू डीसी</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">कोई ऐप्प नहीं मिला</string>
+    <string name="softbank_high_temp_toast_time_10min">ज़्यादा गर्म होने से बचाने के लिए, फ़्लैशलाइट बंद कर दिया गया है</string>
+    <string name="softbank_high_temp_toast_time_4min">ज़्यादा गर्म होने से बचने के लिए फ़्लैश बंद कर दिया गया है</string>
+    <string name="stricter_high_temp_state_message">ऐसा लगता है कि यह डिवाइस बहुत अधिक गर्म हो गया है. आप फ़िलहाल सिर्फ़ फ़ोन और संपर्क का इस्तेमाल कर पाएंगे.</string>
+    <string name="sucess">पूर्ण</string>
+    <string name="thermal_cancel">रद्द करें</string>
+    <string name="thermal_confirm">ठीक</string>
+    <string name="trig_temperature">शुरू होने के समय तापमान</string>
+</resources>

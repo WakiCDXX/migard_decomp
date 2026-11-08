@@ -1,0 +1,53 @@
+package com.miui.powerkeeper.tracker;
+
+/* JADX INFO: loaded from: classes.dex */
+public abstract class TrackerConfig {
+    static final String APPID_DOU = "31000000483";
+    static final String APPID_GAME = "31000000428";
+    static final String APPID_POWER = "31000000497";
+    static final String APPID_POWERKEEPER = "31000001000";
+    static final String APPID_POWER_INTERNATIONAL = "31000000922";
+    static final String APPID_RES_FLARE = "31000000480";
+    static final String APPID_THERMAL = "31000000124";
+    static final String APPID_THERMAL_INTERNATIONAL = "31000000917";
+    static final String CHANNEL = "com.miui.powerkeeper";
+    public static final String EVENT_APPS = "apps";
+    public static final String EVENT_APP_CPU_RUNTIME_AND_MEM_TIME = "app_cpu_runtime_and_mem_time";
+    public static final String EVENT_APP_DURATION = "app_duration";
+    public static final String EVENT_AUDIO_SCREEN_OFF = "uidAudioScreenoffData";
+    public static final String EVENT_BATTERY_HISOTRY = "battery_history";
+    public static final String EVENT_BATTERY_LIFE = "battery_life";
+    public static final String EVENT_BLUETOOTH_SCREEN_OFF = "uidBluetoothScreenoffData";
+    public static final String EVENT_CAMERA_SCREEN_OFF = "uidCameraScreenoffData";
+    public static final String EVENT_CPU = "uidCpuData";
+    public static final String EVENT_CPU_FREQ = "cpu_freq_state";
+    public static final String EVENT_DOU = "DOU";
+    public static final String EVENT_DURATION = "thermal_duration";
+    public static final String EVENT_EXCEPTION_CHECKER = "ExceptionChecker";
+    public static final String EVENT_FG_SERVICE = "Fgservice";
+    public static final String EVENT_LOCATION = "uidLocationData";
+    public static final String EVENT_PACKAGE = "uidPackageData";
+    public static final String EVENT_PERF_EXCEPTION_CHECKER = "PerfExceptionChecker";
+    public static final String EVENT_PROC_AUDIO_TIME_STATS = "audio_time_stats";
+    public static final String EVENT_PROC_CPUINFO = "cpu_info";
+    public static final String EVENT_PROC_CPU_TIMES = "app_cpu_time_in_state";
+    public static final String EVENT_PROC_CPU_TIME_STATS = "cpu_time_stats";
+    public static final String EVENT_PROC_SCREEN_TIME_STATS = "screen_time_stats";
+    public static final String EVENT_RECORD = "uidRecordData";
+    public static final String EVENT_SENSOR = "uidSensorData";
+    public static final String EVENT_SSRU = "ssru";
+    public static final String EVENT_SUFFIX = "row";
+    public static final String EVENT_TOTAL = "total";
+    public static final String EVENT_UPDATE_STATUS = "preload_game_update_status";
+    public static final String EVENT_WAKEUP_REASONS = "WakeupReasons";
+    public static final int MODULE_DOU = 4;
+    public static final int MODULE_GAME = 2;
+    public static final int MODULE_POWER = 0;
+    public static final int MODULE_POWERKEEPER = 5;
+    public static final int MODULE_RES_FLARE = 3;
+    public static final int MODULE_THERMAL = 1;
+    static final String PRIVATE_KEY_ID = "9502ee098a6d81aacbfaa50cc2c99eba9ff528a0";
+    static final String PROJECT_ID = "battery-and-performance";
+    static final String TOPIC_POWER = "mqs_power";
+    static final String TOPIC_THERMAL = "mqs_thermal";
+}

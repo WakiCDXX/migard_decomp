@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">Irranġa skond l-istat tal-attivita</string>
+    <string name="app_name">Batterija u operat</string>
+    <string name="base_info">Informazzjoni bażika</string>
+    <string name="checking_intranet">Qed jiċċekkja l-konnettività ta\' l-Internet…</string>
+    <string name="clear_temperature">Temm it-temp</string>
+    <string name="cloud_addr_info">Informazzjoni Cloud</string>
+    <string name="confirm">OK</string>
+    <string name="connect_intranet_hint">Aqbad mal-internet</string>
+    <string name="delete_data_confirm">Tħassar dan l-oġġett issa?</string>
+    <string name="enable_sleep_mode">Ixgħel Sleep mode biex tottimizza l-użu tal-batterija matul il-lejl</string>
+    <string name="failure">Żball</string>
+    <string name="high_temp_benchmark_state">Tisħin żejjed</string>
+    <string name="high_temp_benchmark_state_message">Jidher li dan it-tagħmir saħan iżżejjed issa. Uża din l-app wara li t-tagħmir jibred ftit: </string>
+    <string name="high_temp_state">Tisħon iżżejjed</string>
+    <string name="high_temp_state_message">L-apparat tiegħek qed jisħon iżżejjed. Dejta tal-mowbajl, hotspots Wi-Fi, GPS u kameri ser ikunu restritti.</string>
+    <string name="high_temp_state_message_orange_es">Biex tittejjeb il-prestazzjoni tat-tagħmir, xi apps ġew diżattivati temporanjament.</string>
+    <string name="insert_data">Daħħal id-dejta</string>
+    <string name="kill_all_back_pro_toast_message">It-tagħmir tiegħek saħan iżżejjed. Għal issa għalaqna l-apps kollha li kienu miftuħa fl-isfond.</string>
+    <string name="kill_pkg_toast_message">Ma tistax tuża l-apps għax it-tagħmir tiegħek saħan iżżejjed</string>
+    <string name="kill_some_back_pro_toast_message">It-tagħmir tiegħek saħan iżżejjed. Għal issa għalaqna xi apps li kienu miftuħa fl-isfond.</string>
+    <string name="lasttime_applist_cloud">Apps aġġornati:</string>
+    <string name="lasttime_feature_cloud">Karatteristiċi aġġornati:</string>
+    <string name="modify_data">Ibdel id-dejta</string>
+    <string name="power_consume_abnormal_night">Il-batterija qed tinżel malajr wisq billejl</string>
+    <string name="privacy">Politika tal-Privatezza</string>
+    <string name="save_data">Erfa\' d-dejta</string>
+    <string name="screen_off_current">Skrin mhux fuq DC</string>
+    <string name="screen_on_current">Skrin fuq DC</string>
+    <string name="search_input_txt_na">&lt;font kulur=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">Ma setax isib l-ebda app</string>
+    <string name="softbank_high_temp_toast_time_10min">Tefa t-torċ biex jevita li tisħon iżżejjed</string>
+    <string name="softbank_high_temp_toast_time_4min">Tefa l-flexx biex jevita li tisħon iżżejjed</string>
+    <string name="stricter_high_temp_state_message">Milli jidher dat-tagħmir saħan iżżejjed. Għalissa se tkun tista\' tuża biss Telefown u Kuntatti.</string>
+    <string name="sucess">Lest</string>
+    <string name="thermal_cancel">Ikkanċella</string>
+    <string name="thermal_confirm">OK</string>
+    <string name="trig_temperature">Ibda t-temp</string>
+</resources>

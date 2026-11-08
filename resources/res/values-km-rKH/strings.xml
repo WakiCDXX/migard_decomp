@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">តម្រៀបតាមស្ថានភាពសកម្មភាព</string>
+    <string name="app_name">ថ្ម និងការអនុវត្ត</string>
+    <string name="base_info">ព័ត៌មានគោល</string>
+    <string name="checking_intranet">កំពុងពិនិត្យការតភ្ជាប់អ៊ីនត្រាណិត…</string>
+    <string name="clear_temperature">បញ្ចប់ temp</string>
+    <string name="cloud_addr_info">ព័ត៌មានក្លោវដ៍</string>
+    <string name="confirm">យល់ព្រម</string>
+    <string name="connect_intranet_hint">តភ្ជាប់ទៅអ៊ីនត្រាណិត</string>
+    <string name="delete_data_confirm">លុបចោល​ធាតុ​នេះឥឡូវនេះឬ?</string>
+    <string name="enable_sleep_mode">សូមបើកម៉ូដគេង ដើម្បីបង្កើនប្រសិទ្ធភាពបម្រើបម្រាស់ថ្មនៅពេលយប់</string>
+    <string name="failure">កំហុស</string>
+    <string name="high_temp_benchmark_state">ឡើងកម្តៅខ្លាំង</string>
+    <string name="high_temp_benchmark_state_message">មើលទៅឧបករណ៍នេះដូចជាក្តៅពេកហើយឥឡូវនេះ។ ប្រើកម្មវិធីនេះបន្ទាប់ពីឧបករណ៍ត្រជាក់៖ </string>
+    <string name="high_temp_state">ឡើងកម្តៅខ្លាំង</string>
+    <string name="high_temp_state_message">ឧបករណ៍របស់អ្នកកំពុងឡើងកំដៅខ្លាំង។ Wi-Fi ​ហត់ស្ពត់, GPS និងកាមេរ៉ានឹងត្រូវបានដាក់កម្រិត។</string>
+    <string name="high_temp_state_message_orange_es">ដើម្បីកែលម្អដំណើរការឧបករណ៍ កម្មវិធីមួយចំនួនត្រូវបានបិទជាបណ្តោះអាសន្ន។</string>
+    <string name="insert_data">បញ្ចូលទិន្នន័យ</string>
+    <string name="kill_all_back_pro_toast_message">ឧបករណ៍របស់អ្នកឡើងកំដៅខ្លាំង។ បានបិទកម្មវិធីទាំងអស់ដែលកំពុងដំណើរការក្នុងផ្ទៃខាងក្រោយសម្រាប់ពេលនេះ។</string>
+    <string name="kill_pkg_toast_message">មិន​អាច​ប្រើ​កម្មវិធី​បាន​ទេ ដោយសារ​ឧបករណ៍​ឡើង​កម្ដៅខ្លាំង</string>
+    <string name="kill_some_back_pro_toast_message">ឧបករណ៍របស់អ្នកឡើងកំដៅខ្លាំង។ បានបិទកម្មវិធីមួយចំនួនដែលកំពុងដំណើរការក្នុងផ្ទៃខាងក្រោយសម្រាប់ពេលនេះ។</string>
+    <string name="lasttime_applist_cloud">កម្មវិធីដែលបានអាប់ដេត៖</string>
+    <string name="lasttime_feature_cloud">លក្ខណៈពិសេសដែលបានអាប់ដេត៖</string>
+    <string name="modify_data">កែប្រែទិន្នន័យ</string>
+    <string name="power_consume_abnormal_night">ថ្មត្រូវបានចុះខ្សោយនៅពេលយប់</string>
+    <string name="privacy">គោលការណ៍ឯកជនភាព</string>
+    <string name="save_data">រក្សាទុកទិន្នន័យ</string>
+    <string name="screen_off_current">អេក្រង់ក្រៅ DC</string>
+    <string name="screen_on_current">អេក្រង់លើ DC</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">មិន​អាច​រក​ឃើញកម្មវិធី</string>
+    <string name="softbank_high_temp_toast_time_10min">សូមបិទភ្លើង Flash ដើម្បីជៀសវាងការឡើងកំដៅខ្លាំង</string>
+    <string name="softbank_high_temp_toast_time_4min">សូមបិទភ្លើង Flash ដើម្បីជៀសវាងការឡើងកំដៅខ្លាំង</string>
+    <string name="stricter_high_temp_state_message">ឧបករណ៍នេះហាក់ដូចជាក្តៅខ្លាំងពេកហើយ។ អ្នក​នឹង​អាច​ប្រើ​បាន​តែ​ទូរស័ព្ទ និងបញ្ជីឈ្មោះ​ទំនាក់ទំនងតែប៉ុណ្ណោះ​សម្រាប់​ពេល​នេះ។</string>
+    <string name="sucess">ធ្វើរួច</string>
+    <string name="thermal_cancel">បោះបង់</string>
+    <string name="thermal_confirm">យល់ព្រម</string>
+    <string name="trig_temperature">ចាប់ផ្តើម temp</string>
+</resources>

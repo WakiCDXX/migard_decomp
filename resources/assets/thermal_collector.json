@@ -1,0 +1,72 @@
+{
+  "work_status": "local",
+  "thermal_cloud_event": [
+    "genApps",
+    "apps",
+    "total"
+  ],
+  "parameters": [
+    {
+      "event": "genApps",
+      "rule": [
+        "genApps_foreground",
+        "genApps_broad"
+      ],
+      "collectors": {
+        "genApps_foreground": [
+          "CollectorHead",
+          "CollectorThermal",
+          "CollectorThermalPlus",
+          "CollectorNet",
+          "CollectorDisplay",
+          "CollectorBluetooth",
+          "CollectorAudio",
+          "CollectorMisc"
+        ],
+        "genApps_broad": [
+          "CollectorThermal",
+          "CollectorThermalPlus",
+          "CollectorNet",
+          "CollectorMisc"
+        ]
+      },
+      "trigger": {
+        "genApps_foreground": "ForegroundTrigger",
+        "genApps_broad": "BroadTempTrigger"
+      },
+      "extra": "{'start_collectors':['CollectorHead','CollectorThermal','CollectorThermalPlus','CollectorNet'],'end_collectors':['CollectorThermal','CollectorThermalPlus','CollectorNet','CollectorDisplay','CollectorBluetooth','CollectorAudio','CollectorMisc'],'temp_collectors':['CollectorThermal','CollectorThermalPlus','CollectorNet','CollectorMisc'],'interval':60}"
+    },
+    {
+      "event": "apps",
+      "rule": [
+        "apps_foreground"
+      ],
+      "collectors": {
+        "apps_foreground": [
+          "CollectorOldThermal",
+          "CollectorHead"
+        ]
+      },
+      "trigger": {
+        "apps_foreground": "ForegroundTrigger"
+      },
+      "extra": "1800"
+    },
+    {
+      "event": "total",
+      "rule": [
+        "total_battery"
+      ],
+      "collectors": {
+        "total_battery": [
+          "CollectorOldThermal",
+          "CollectorHead"
+        ]
+      },
+      "trigger": {
+        "total_battery": "BatteryTrigger"
+      },
+      "extra": "10"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pkg": [
+    {
+      "pkg_name": "com.ss.android.ugc.aweme",
+      "screen_low": 0,
+      "screen_full": 0,
+      "screen_hbm": 0
+    },
+    {
+      "pkg_name": "tv.danmaku.bili",
+      "screen_low": 0,
+      "screen_full": 0,
+      "screen_hbm": 0
+    },
+    {
+      "pkg_name": "com.tencent.mm",
+      "screen_low": 0,
+      "screen_full": 0,
+      "screen_hbm": 0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">Белсенділік күйі бойынша сұрыптау</string>
+    <string name="app_name">Батарея және өнімділік</string>
+    <string name="base_info">Негізгі ақпарат</string>
+    <string name="checking_intranet">Интранет қосылымы тексерілуде…</string>
+    <string name="clear_temperature">Аяқталу температурасы</string>
+    <string name="cloud_addr_info">Бұлтты ақпарат</string>
+    <string name="confirm">OK</string>
+    <string name="connect_intranet_hint">Интранет желісіне қосылу</string>
+    <string name="delete_data_confirm">Осы элемент жойылсын ба?</string>
+    <string name="enable_sleep_mode">Түнде батарея пайдалануын оңтайландыру үшін Ұйқы режимін қосу</string>
+    <string name="failure">Қате</string>
+    <string name="high_temp_benchmark_state">Шамадан тыс қызу</string>
+    <string name="high_temp_benchmark_state_message">Осы құрылғы қатты қызып кеткен сияқты. Құрылғы суыған соң осы қолданбаны пайдаланыңыз: </string>
+    <string name="high_temp_state">Қатты ысу</string>
+    <string name="high_temp_state_message">Құрылңыңыз қатты ысты. Ұялы деректер, Wi-Fi рұқсат нүктелері, GPS және камера шектеледі.</string>
+    <string name="high_temp_state_message_orange_es">Құрылғы өнімділігін жақсарту үшін кейбір қолданбалар уақытша өшірілді.</string>
+    <string name="insert_data">Деректерді енгізу</string>
+    <string name="kill_all_back_pro_toast_message">Құрылғыңыз қызып кетті. Әзірге фондық режимде жұмыс істейтін барлық қолданбалар жабылды.</string>
+    <string name="kill_pkg_toast_message">Құрылғының шамадан тыс қызуынан қолданбаларды пайдалану мүмкін емес</string>
+    <string name="kill_some_back_pro_toast_message">Құрылғыңыз қызып кетті. Әзірге фондық режимде жұмыс істейтін кейбір қолданбалар жабылды.</string>
+    <string name="lasttime_applist_cloud">Жаңартылған қолданбалар:</string>
+    <string name="lasttime_feature_cloud">Жаңартылған мүмкіндіктер:</string>
+    <string name="modify_data">Деректерді өзгерту</string>
+    <string name="power_consume_abnormal_night">Батарея түнде қажылды</string>
+    <string name="privacy">Құпиялылық Саясаты</string>
+    <string name="save_data">Деректерді сақтау</string>
+    <string name="screen_off_current">Тұрақты тоқ экраны өшірулі</string>
+    <string name="screen_on_current">Тұрақты тоқ экраны қосулы</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">Қолданбалар табылмады</string>
+    <string name="softbank_high_temp_toast_time_10min">Қолшам шамадан тыс қызып кетуді болдырмау үшін өшірілді</string>
+    <string name="softbank_high_temp_toast_time_4min">Жарқылдақ шамадан тыс қызып кетуді болдырмау үшін өшірілді</string>
+    <string name="stricter_high_temp_state_message">Бұл құрылғы қызып кеткен сияқты. Әзірше тек қана Телефон және Контактілерді ғана қолдана аласыз.</string>
+    <string name="sucess">Дайын</string>
+    <string name="thermal_cancel">Болдырмау</string>
+    <string name="thermal_confirm">OK</string>
+    <string name="trig_temperature">Басталу температурасы</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">ಚಟುವಟಿಕೆ ಸ್ಟೇಟಸ್ ಪ್ರಕಾರ ವಿಂಗಡಿಸಿ</string>
+    <string name="app_name">ಬ್ಯಾಟರಿ ಮತ್ತು ಕಾರ್ಯದಕ್ಷತೆ</string>
+    <string name="base_info">ನೆಲೆ ಮಾಹಿತಿ</string>
+    <string name="checking_intranet">ಇಂಟ್ರಾನೆಟ್‌ ಕನೆಕ್ಷನ್‌ ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="clear_temperature">ಅಂತಿಮ ತಾಪಮಾನ</string>
+    <string name="cloud_addr_info">ಕ್ಲೌಡ್‌ ಮಾಹಿತಿ</string>
+    <string name="confirm">ಸರಿ</string>
+    <string name="connect_intranet_hint">ಇಂಟ್ರಾನೆಟ್‌ಗೆ ಕನೆಕ್ಟ್‌ ಮಾಡಿ</string>
+    <string name="delete_data_confirm">ಐಟಂ ಅಳಿಸಬೇಕೇ?</string>
+    <string name="enable_sleep_mode">ರಾತ್ರಿ ಬ್ಯಾಟರಿ ಬಳಕೆಯನ್ನು ಉತ್ತಮಗೊಳಿಸಲು ಸ್ಲೀಪ್ ಮೋಡ್ ಆನ್ ಮಾಡಿ</string>
+    <string name="failure">ದೋಷ</string>
+    <string name="high_temp_benchmark_state">ಓವರ್‌ಹೀಟಿಂಗ್‌</string>
+    <string name="high_temp_benchmark_state_message">ಈ ಡಿವೈಸ್‌ ತುಂಬಾ ಬಿಸಿಯಾದಂತಿದೆ. ಡಿವೈಸ್‌ ತಣ್ಣಗಾದ ಬಳಿಕ ಈ ಆ್ಯಪ್‌ ಬಳಸಿ: </string>
+    <string name="high_temp_state">ಮಿತಿಮೀರಿದ ಬಿಸಿ</string>
+    <string name="high_temp_state_message">ಡಿವೈಸ್‌ ತುಂಬಾ ಬಿಸಿಯಾಗುತ್ತಿದೆ. ಮೊಬೈಲ್ ಡೇಟಾ, ವೈ-ಫೈ ಹಾಟ್‌ಸ್ಪಾಟ್‌ಗಳು, GPS ಮತ್ತು ಕ್ಯಾಮರಾಗಳನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗುತ್ತದೆ.</string>
+    <string name="high_temp_state_message_orange_es">ಡಿವೈಸ್‌ ಕಾರ್ಯದಕ್ಷತೆಯನ್ನು ಸುಧಾರಿಸಲು, ಕೆಲವು ಆ್ಯಪ್‌ಗಳನ್ನು ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗುತ್ತದೆ.</string>
+    <string name="insert_data">ಡೇಟಾ ಸೇರಿಸಿ</string>
+    <string name="kill_all_back_pro_toast_message">ನಿಮ್ಮ ಡಿವೈಸ್‌ ಓವರ್‌ಹೀಟ್‌ ಆಗಿದೆ. ಹಿನ್ನೆಲೆಯಲ್ಲಿ ರನ್‌ ಆಗುತ್ತಿದ್ದ ಎಲ್ಲಾ ಆ್ಯಪ್‌ಗಳನ್ನು ಮುಚ್ಚಲಾಗಿದೆ.</string>
+    <string name="kill_pkg_toast_message">ಡಿವೈಸ್‌ ಓವರ್‌ಹೀಟಿಂಗ್‌ನಿಂದಾಗಿ ಆ್ಯಪ್‌ಗಳನ್ನು ಬಳಸಲು ಆಗುವುದಿಲ್ಲ</string>
+    <string name="kill_some_back_pro_toast_message">ನಿಮ್ಮ ಡಿವೈಸ್‌ ಓವರ್‌ಹೀಟ್‌ ಆಗಿದೆ. ಹಿನ್ನೆಲೆಯಲ್ಲಿ ರನ್‌ ಆಗುತ್ತಿದ್ದ ಕೆಲವು ಆ್ಯಪ್‌ಗಳನ್ನು ಮುಚ್ಚಲಾಗಿದೆ.</string>
+    <string name="lasttime_applist_cloud">ಅಪ್‌ಡೇಟ್‌ ಆದ ಆ್ಯಪ್‌ಗಳು:</string>
+    <string name="lasttime_feature_cloud">ಅಪ್‌ಡೇಟ್‌ ಆದ ಫೀಚರ್‌ಗಳು:</string>
+    <string name="modify_data">ಡೇಟಾ ಮಾರ್ಪಡಿಸಿ</string>
+    <string name="power_consume_abnormal_night">ರಾತ್ರಿ ಬ್ಯಾಟರಿ ಬರಿದಾಗಿದೆ</string>
+    <string name="privacy">ಗೌಪ್ಯತೆ ನೀತಿ</string>
+    <string name="save_data">ಡೇಟಾ ಉಳಿಸಿ</string>
+    <string name="screen_off_current">ಸ್ಕ್ರೀನ್‌ ಆಫ್‌ DC</string>
+    <string name="screen_on_current">ಸ್ಕ್ರೀನ್‌ ಆನ್‌ DC</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">ಯಾವುದೇ ಆ್ಯಪ್‌‌ಗಳು ಕಂಡುಬರಲಿಲ್ಲ</string>
+    <string name="softbank_high_temp_toast_time_10min">ಓವರ್‌ಹೀಟಿಂಗ್‌ ತಪ್ಪಿಸಲು ಫ್ಲ್ಯಾಶ್‌ಲೈಟ್‌ ಆಫ್‌ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="softbank_high_temp_toast_time_4min">ಓವರ್‌ಹೀಟಿಂಗ್‌ ತಪ್ಪಿಸಲು ಫ್ಲ್ಯಾಶ್‌ ಆಫ್‌ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="stricter_high_temp_state_message">ಈ ಡಿವೈಸ್‌ ಓವರ್‌ಹೀಟ್ ಆದಂತಿದೆ. ನಿಮಗೀಗ ಕೇವಲ ಫೋನ್‌ ಹಾಗೂ ಸಂಪರ್ಕಗಳು ಅನ್ನು ಮಾತ್ರ ಬಳಸಲು ಸಾಧ್ಯ.</string>
+    <string name="sucess">ಮುಗಿಯಿತು</string>
+    <string name="thermal_cancel">ರದ್ದು</string>
+    <string name="thermal_confirm">ಸರಿ</string>
+    <string name="trig_temperature">ಪ್ರಾರಂಭದ ತಾಪಮಾನ</string>
+</resources>

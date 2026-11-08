@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">Kārtot pēc aktivitātes statusa</string>
+    <string name="app_name">Baterija un veiktspēja</string>
+    <string name="base_info">Bāzes informācija</string>
+    <string name="checking_intranet">Pārbaudiet interneta savienojumu…</string>
+    <string name="clear_temperature">Beigu temp.</string>
+    <string name="cloud_addr_info">Mākoņa informācija</string>
+    <string name="confirm">Labi</string>
+    <string name="connect_intranet_hint">Izveidojiet interneta savienojumu</string>
+    <string name="delete_data_confirm">Vai dzēst šo vienumu tagad?</string>
+    <string name="enable_sleep_mode">Ieslēgt Miega režīmu, lai optimizētu baterijas lietojumu naktī</string>
+    <string name="failure">Kļūda</string>
+    <string name="high_temp_benchmark_state">Pārkaršana</string>
+    <string name="high_temp_benchmark_state_message">Izskatās, ka šī ierīce tagad ir pārāk karsta. Izmantojiet šo lietotni pēc tam, kad ierīce atdzisīs: </string>
+    <string name="high_temp_state">Pārkaršana</string>
+    <string name="high_temp_state_message">Jūsu ierīce pārkarst. Mobilie dati, Wi-Fi karstvieta, GPS un kamera būs atslēgti.</string>
+    <string name="high_temp_state_message_orange_es">Lai uzlabotu ierīces veiktspēju, dažas lietotnes tika īslaicīgi atspējotas.</string>
+    <string name="insert_data">Ievietot datus</string>
+    <string name="kill_all_back_pro_toast_message">Jūsu ierīce ir pārkarsusi. Visas fonā strādājošās lietotnes pagaidām tiks aizvērtas.</string>
+    <string name="kill_pkg_toast_message">Nevar izmantot ierīci dēļ pārkaršanas</string>
+    <string name="kill_some_back_pro_toast_message">Jūsu ierīce ir pārkarsusi. Dažas fonā strādājošās lietotnes pagaidām tiks aizvērtas.</string>
+    <string name="lasttime_applist_cloud">Atjauninātās lietotnes:</string>
+    <string name="lasttime_feature_cloud">Atjauninātās funkcijas:</string>
+    <string name="modify_data">Pārveidot datus</string>
+    <string name="power_consume_abnormal_night">Baterija tiek naktī iztukšota</string>
+    <string name="privacy">Konfidencialitātes politika</string>
+    <string name="save_data">Saglabāt datus</string>
+    <string name="screen_off_current">Ekrāns ir izslēgts DC</string>
+    <string name="screen_on_current">Ekrāns ir ieslēgts DC</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">Neizdevās atrast lietotnes</string>
+    <string name="softbank_high_temp_toast_time_10min">Zibspuldze tika izslēgta, lai novērstu pārkaršanu.</string>
+    <string name="softbank_high_temp_toast_time_4min">Zibspuldze tika izslēgta, lai novērstu pārkaršanu.</string>
+    <string name="stricter_high_temp_state_message">Izskatās, ka šī ierīce ir pārkarsusi. Jums šobrīd būs iespēja izmantot tikai Tālruni un Kontaktus.</string>
+    <string name="sucess">Pabeigts</string>
+    <string name="thermal_cancel">Atcelt</string>
+    <string name="thermal_confirm">LABI</string>
+    <string name="trig_temperature">Sākuma temp.</string>
+</resources>

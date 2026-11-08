@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">ਕਿਰਿਆਸ਼ੀਲਤਾ ਸਥਿਤੀ ਰਾਹੀਂ ਛਾਂਟੋ</string>
+    <string name="app_name">ਬੈਟਰੀ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ</string>
+    <string name="base_info">ਬੁਨਿਆਦੀ ਜਾਣਕਾਰੀ</string>
+    <string name="checking_intranet">ਇੰਟਰਾਨੈੱਟ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…</string>
+    <string name="clear_temperature">ਸਮਾਪਤੀ ਵੇਲੇ ਤਾਪਮਾਨ</string>
+    <string name="cloud_addr_info">ਕਲਾਉਡ ਜਾਣਕਾਰੀ</string>
+    <string name="confirm">ਠੀਕ ਹੈ</string>
+    <string name="connect_intranet_hint">ਇੰਟਰਾਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਕਰੋ</string>
+    <string name="delete_data_confirm">ਇਸ ਆਈਟਮ ਨੂੰ ਹੁਣੇ ਮਿਟਾਉਣਾ ਹੈ?</string>
+    <string name="enable_sleep_mode">ਰਾਤ ਨੂੰ ਬੈਟਰੀ ਵਰਤੋਂ ਅਨੁਕੂਲ ਬਣਾਉਣ ਲਈ ਨੀਂਦ ਮੋਡ ਚਾਲੂ ਕਰੋ</string>
+    <string name="failure">ਤਰੁੱਟੀ</string>
+    <string name="high_temp_benchmark_state">ਬਹੁਤ ਜ਼ਿਆਦਾ ਗਰਮ ਹੋਣਾ</string>
+    <string name="high_temp_benchmark_state_message">ਇੰਝ ਲੱਗਦਾ ਹੈ ਇਹ ਡੀਵਾਈਸ ਹੁਣ ਬਹੁਤ ਜ਼ਿਆਦਾ ਗਰਮ ਹੋ ਗਿਆ ਹੈ। ਇਸ ਐਪ ਦੀ ਵਰਤੋਂ ਡੀਵਾਈਸ ਠੰਡਾ ਹੋਣ ਤੋਂ ਬਾਅਦ ਕਰੋ: </string>
+    <string name="high_temp_state">ਬਹੁਤ ਗਰਮ</string>
+    <string name="high_temp_state_message">ਤੁਹਾਡਾ ਡੀਵਾਈਸ ਜ਼ਿਆਦਾ ਗਰਮ ਹੋ ਰਿਹਾ ਹੈ। ਮੋਬਾਈਲ ਡਾਟਾ, ਵਾਈ-ਫ਼ਾਈ ਹੌਟਸਪੌਟ, GPS ਅਤੇ ਕੈਮਰੇ ਉਤੇ ਰੋਕ ਲਗਾ ਦਿੱਤੀ ਜਾਵੇਗੀ।</string>
+    <string name="high_temp_state_message_orange_es">ਡੀਾਈਸ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਬਿਹਤਰ ਬਣਾੁਣ ਲਈ, ਕੁਝ ਐਪਾਂ ਨੂੰ ਅਸਥਾਈ ਤੌਰ \'ਤੇ ਅਸਮਰੱਥ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ।</string>
+    <string name="insert_data">ਡਾਟਾ ਪਾਓ</string>
+    <string name="kill_all_back_pro_toast_message">ਤੁਹਾਡਾ ਡੀਵਾਈਸ ਲੋੜ ਤੋਂ ਵੱਧ ਗਰਮ ਹੋ ਗਿਆ ਹੈ। ਹੁਣੇ ਤੋਂ ਬੈਕਗ੍ਰਾਊਂਡ ਵਿੱਚ ਚੱਲ ਰਹੀਆਂ ਸਾਰੀਆਂ ਐਪਾਂ ਬੰਦ ਕੀਤੀਆਂ ਗਈਆਂ।</string>
+    <string name="kill_pkg_toast_message">ਡੀਵਾਈਸ ਦੇ ਬਹੁਤ ਜ਼ਿਆਦਾ ਗਰਮ ਹੋਣ ਕਰਕੇ ਐਪਾਂ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ</string>
+    <string name="kill_some_back_pro_toast_message">ਤੁਹਾਡਾ ਡੀਵਾਈਸ ਲੋੜ ਤੋਂ ਵੱਧ ਗਰਮ ਹੋ ਗਿਆ ਹੈ। ਹੁਣੇ ਤੋਂ ਬੈਕਗ੍ਰਾਊਂਡ ਵਿੱਚ ਚੱਲ ਰਹੀਆਂ ਕੁਝ ਐਪਾਂ ਬੰਦ ਕੀਤੀਆਂ ਗਈਆਂ।</string>
+    <string name="lasttime_applist_cloud">ਅੱਪਡੇਟ ਕੀਤੀਆਂ ਐਪਾਂ:</string>
+    <string name="lasttime_feature_cloud">ਅੱਪਡੇਟ ਕੀਤੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ:</string>
+    <string name="modify_data">ਡਾਟਾ ਸੋਧੋ</string>
+    <string name="power_consume_abnormal_night">ਬੈਟਰੀ ਰਾਤ ਵੇਲੇ ਘੱਟ ਜਾਂਦੀ ਹੈ</string>
+    <string name="privacy">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</string>
+    <string name="save_data">ਡਾਟਾ ਸੁਰੱਖਿਅਤ ਕਰੋ</string>
+    <string name="screen_off_current">ਸਕ੍ਰੀਨ ਆਫ਼ DC</string>
+    <string name="screen_on_current">ਸਕ੍ਰੀਨ ਆਨ DC</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">ਕੋਈ ਐਪਾਂ ਨਹੀਂ ਮਿਲ ਸਕੀਆਂ</string>
+    <string name="softbank_high_temp_toast_time_10min">ਬਹੁਤ ਜ਼ਿਆਦਾ ਗਰਮ ਹੋਣ ਤੋਂ ਬਚਾਉਣ ਲਈ ਫ਼ਲੈਸ਼ਲਾਈਟ ਨੂੰ ਬੰਦ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ</string>
+    <string name="softbank_high_temp_toast_time_4min">ਬਹੁਤ ਜ਼ਿਆਦਾ ਗਰਮ ਹੋਣ ਤੋਂ ਬਚਾਉਣ ਲਈ ਫ਼ਲੈਸ਼ ਨੂੰ ਬੰਦ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ</string>
+    <string name="stricter_high_temp_state_message">ਇੰਝ ਲੱਗਦਾ ਹੈ ਇਹ ਡੀਵਾਈਸ ਬਹੁਤ ਜ਼ਿਆਦਾ ਗਰਮ ਹੋ ਗਿਆ ਹੈ। ਹੁਣ ਲਈ ਤੁਸੀਂ ਸਿਰਫ਼ ਫ਼ੋਨ ਅਤੇ ਸੰਪਰਕਾਂ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ।</string>
+    <string name="sucess">ਹੋ ਗਿਆ</string>
+    <string name="thermal_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="thermal_confirm">ਠੀਕ ਹੈ</string>
+    <string name="trig_temperature">ਅਰੰਭ ਵੇਲੇ ਤਾਪਮਾਨ</string>
+</resources>

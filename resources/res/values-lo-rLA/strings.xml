@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">ຈັດຮຽງຕາມສະຖານະກິດຈະກຳ</string>
+    <string name="app_name">ແບັດເຕີຣີແລະປະສິດທິພາບ</string>
+    <string name="base_info">ຂໍ້ມູນພື້ນຖານ</string>
+    <string name="checking_intranet">ກຳລັງກວດສອບການເຊື່ອມຕໍ່ອິນທຣາເນັດ…</string>
+    <string name="clear_temperature">ອຸນຫະພູມສິ້ນສຸດ</string>
+    <string name="cloud_addr_info">ຂໍ້ມູນ Cloud</string>
+    <string name="confirm">ຕົກລົງ</string>
+    <string name="connect_intranet_hint">ເຊື່ອມຕໍ່ອິນທຣາເນັດ</string>
+    <string name="delete_data_confirm">​ລົບລາຍການຕອນນີ້ບໍ?</string>
+    <string name="enable_sleep_mode">ເປີດໂໝດພັກໜ້າຈໍເພື່ອເພີ່ມປະສິດທິພາບການນຳໃຊ້ແບັດເຕີຣີເວລາກາງຄືນ</string>
+    <string name="failure">ຜິດພາດ</string>
+    <string name="high_temp_benchmark_state">ຮ້ອນເກີນໄປ</string>
+    <string name="high_temp_benchmark_state_message">ອຸປະກອນນີ້ຮ້ອນເກີນໄປ. ໃຊ້ແອັບນີ້ຫຼັງຈາກອຸປະກອນເຢັນລົງ: </string>
+    <string name="high_temp_state">ຮ້ອນເກີນໄປ</string>
+    <string name="high_temp_state_message">ອຸປະກອນຂອງທ່ານຮ້ອນເກີນໄປ. ຂໍ້ມູນມືຖື, ຮັອດສະປອດ Wi-Fi, GPS ແລະກ້ອງຖ່າຍຮູບຈະຖືກຈຳກັດ.</string>
+    <string name="high_temp_state_message_orange_es">ເພື່ອປັບປຸງປະສິດທິພາບຂອງອຸປະກອນ, ບາງແອັບຖືກປິດໃຊ້ງານຊົ່ວຄາວ.</string>
+    <string name="insert_data">ປ້ອນຂໍ້ມູນ</string>
+    <string name="kill_all_back_pro_toast_message">ອຸປະກອນຂອງທ່ານຮ້ອນເກີນໄປ. ປິດແອັບທຸກຕົວທີ່ເຮັດວຽກຢູ່ເບື້ອງຫຼັງໃນຕອນນີ້.</string>
+    <string name="kill_pkg_toast_message">ບໍ່ສາມາດໃຊ້ແອັບໃນລະຫວ່າງອຸປະກອນທີ່ມີຄວາມຮ້ອນສູງ</string>
+    <string name="kill_some_back_pro_toast_message">ອຸປະກອນຂອງທ່ານຮ້ອນເກີນໄປ. ປິດແອັບບາງຕົວທີ່ເຮັດວຽກຢູ່ເບື້ອງຫຼັງໃນຕອນນີ້.</string>
+    <string name="lasttime_applist_cloud">ອັບເດດແອັບ:</string>
+    <string name="lasttime_feature_cloud">ອັບເດດຄຸນສົມບັດ:</string>
+    <string name="modify_data">ແກ້ໄຂຂໍ້ມູນ</string>
+    <string name="power_consume_abnormal_night">ແບັດເຕີຣີໝົດໃນຕອນກາງຄືນ</string>
+    <string name="privacy">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</string>
+    <string name="save_data">ບັນທຶກຂໍ້ມູນ</string>
+    <string name="screen_off_current">ປິດໜ້າຈໍ DC</string>
+    <string name="screen_on_current">ເປີດໜ້າຈໍ DC</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">​ບໍ່​ພົບ​ແອັບໃດໆ​</string>
+    <string name="softbank_high_temp_toast_time_10min">ປິດໄຟສາຍເພື່ອຫຼີກລ້ຽງຄວາມຮ້ອນສູງເກີນໄປ</string>
+    <string name="softbank_high_temp_toast_time_4min">ປິດ Flash ເພື່ອຫຼີກລ້ຽງຄວາມຮ້ອນສູງເກີນໄປ</string>
+    <string name="stricter_high_temp_state_message">ອຸປະກອນນີ້ຈະຮ້ອນເກີນໄປ. ໃນຕອນນີ້ທ່ານຈະໃຊ້ໂທລະສັບແລະລາຍຊື່ຜູ້ຕິດຕໍ່ໄດ້ເທົ່ານັ້ນ.</string>
+    <string name="sucess">​ສຳ​ເລັດ​ແລ້ວ</string>
+    <string name="thermal_cancel">ຍົກເລີກ</string>
+    <string name="thermal_confirm">​ຕົກລົງ</string>
+    <string name="trig_temperature">ອຸນຫະພູມເລີ່ມຕົ້ນ</string>
+</resources>

@@ -1,0 +1,56 @@
+package com.miui.powerkeeper.logsystem.config;
+
+/* JADX INFO: loaded from: classes.dex */
+public class LogType {
+    static final int DEFAULT_LOG_FLAGS = 1128202399;
+    public static final int LOG_TYPE_ALARM = 512;
+    public static final String LOG_TYPE_ALARM_NAME = "alarm";
+    public static final int LOG_TYPE_COMMON_STATIC = 0;
+    public static final String LOG_TYPE_COMMON_STATIC_NAME = "CommonStatus";
+    public static final int LOG_TYPE_CONNECTIVITY = 64;
+    public static final String LOG_TYPE_CONNECTIVITY_NAME = "connectivity";
+    public static final int LOG_TYPE_CPU = 1;
+    public static final String LOG_TYPE_CPU_NAME = "cpu";
+    public static final int LOG_TYPE_DISPLAY = 8;
+    public static final String LOG_TYPE_DISPLAY_NAME = "display";
+    public static final int LOG_TYPE_F_SAMPLING_CURRENT = 1073741824;
+    public static final String LOG_TYPE_F_SAMPLING_CURRENT_NAME = "current";
+    public static final int LOG_TYPE_GFX = 1024;
+    public static final String LOG_TYPE_GFX_NAME = "gfxinfo";
+    public static final int LOG_TYPE_JOB = 2048;
+    public static final String LOG_TYPE_JOB_NAME = "jobscheduler";
+    public static final int LOG_TYPE_KERNEL = 2;
+    public static final String LOG_TYPE_KERNEL_NAME = "kernel";
+    public static final int LOG_TYPE_MASK = 65535;
+    public static final int LOG_TYPE_MEMINFO = 256;
+    public static final String LOG_TYPE_MEMINFO_NAME = "meminfo";
+    public static final int LOG_TYPE_PERFSERVICE = 128;
+    public static final String LOG_TYPE_PERFSERVICE_NAME = "perfservice";
+    public static final int LOG_TYPE_SAMPLING_CLOCK = 524288;
+    public static final String LOG_TYPE_SAMPLING_CLOCK_NAME = "clock";
+    public static final int LOG_TYPE_SAMPLING_CPUFREQ = 33554432;
+    public static final String LOG_TYPE_SAMPLING_CPUFREQ_NAME = "CpuFreq";
+    public static final int LOG_TYPE_SAMPLING_DNS = 8388608;
+    public static final String LOG_TYPE_SAMPLING_DNS_NAME = "DNS";
+    public static final int LOG_TYPE_SAMPLING_INTERRUPT = 65536;
+    public static final String LOG_TYPE_SAMPLING_INTERRUPT_NAME = "interrupt";
+    public static final int LOG_TYPE_SAMPLING_MASK = 1073676288;
+    public static final int LOG_TYPE_SAMPLING_MOBILE_DATA = 262144;
+    public static final String LOG_TYPE_SAMPLING_MOBILE_DATA_NAME = "mobile data";
+    public static final int LOG_TYPE_SAMPLING_NETWORK_MODE = 2097152;
+    public static final String LOG_TYPE_SAMPLING_NETWORK_MODE_NAME = "network mode";
+    public static final int LOG_TYPE_SAMPLING_SIGNAL_STRENGTH = 1048576;
+    public static final String LOG_TYPE_SAMPLING_SIGNAL_STRENGTH_NAME = "signal strength";
+    public static final int LOG_TYPE_SAMPLING_TOP = 16777216;
+    public static final String LOG_TYPE_SAMPLING_TOP_NAME = "TOP";
+    public static final int LOG_TYPE_SAMPLING_TRANSMIT_POWER = 4194304;
+    public static final String LOG_TYPE_SAMPLING_TRANSMIT_POWER_NAME = "transmit power";
+    public static final int LOG_TYPE_SAMPLING_WIFI_DATA = 131072;
+    public static final String LOG_TYPE_SAMPLING_WIFI_DATA_NAME = "wifi data";
+    public static final int LOG_TYPE_SENSOR = 16;
+    public static final String LOG_TYPE_SENSOR_NAME = "sensorservice";
+    public static final int LOG_TYPE_SF = 4;
+    public static final String LOG_TYPE_SF_NAME = "SurfaceFlinger";
+    public static final int LOG_TYPE_WIFI = 32;
+    public static final String LOG_TYPE_WIFI_NAME = "wifi";
+}

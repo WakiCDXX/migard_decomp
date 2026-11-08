@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">కార్యకలాప స్థితి ద్వారా క్రమీకరించు</string>
+    <string name="app_name">బ్యాటరీ మరియు పనితీరు</string>
+    <string name="base_info">ప్రాథమిక సమాచారం</string>
+    <string name="checking_intranet">ఇంట్రానెట్ కనెక్షన్‌ని తనిఖీ చేస్తోంది…</string>
+    <string name="clear_temperature">చివరి ఉష్ణోగ్రత</string>
+    <string name="cloud_addr_info">క్లౌడ్ సమాచారం</string>
+    <string name="confirm">సరే</string>
+    <string name="connect_intranet_hint">ఇంట్రానెట్‌కు కనెక్ట్ చేయండి</string>
+    <string name="delete_data_confirm">ఈ అంశాన్ని ఇప్పుడే తొలగించాలా?</string>
+    <string name="enable_sleep_mode">రాత్రిపూట బ్యాటరీ వినియోగాన్ని అనుకూలపరిచేందుకు నిద్రావస్థ మోడ్‌ని ఆన్ చేయి</string>
+    <string name="failure">లోపం</string>
+    <string name="high_temp_benchmark_state">బాగా వేడెక్కింది</string>
+    <string name="high_temp_benchmark_state_message">మీ పరికరం బాగా వేడెక్కినట్లు తెలుస్తోంది. పరికరం చల్లబడిన తరువాత ఈ యాప్‌ని ఉపయోగించండి: </string>
+    <string name="high_temp_state">బాగా వేడెక్కింది</string>
+    <string name="high_temp_state_message">మీ పరికరం బాగా వేడెక్కుతోంది. మొబైల్ డేటా, Wi-Fi హాట్‌స్పాట్‌లు, GPS మరియు కెమెరా నిరోధించబడతాయి.</string>
+    <string name="high_temp_state_message_orange_es">పరికర పనితీరుని మెరుగుపరిచేందుకు, కొన్ని యాప్‌లు తాత్కాలికంగా నిలిపివేయబడ్డాయి.</string>
+    <string name="insert_data">డేటాని చేర్చండి</string>
+    <string name="kill_all_back_pro_toast_message">మీ పరికరం బాగా వేడెక్కింది. ప్రస్తుతానికి నేపథ్యంలో అమలు అవుతున్న అన్ని యాప్‌లను మూసివేయడం జరిగింది.</string>
+    <string name="kill_pkg_toast_message">పరికరం అతిగా వేడెక్కడం వలన యాప్‌లను ఉపయోగించలేము</string>
+    <string name="kill_some_back_pro_toast_message">మీ పరికరం బాగా వేడెక్కింది. నేపథ్యంలో అమలు అవుతున్న కొన్ని యాప్‌లను ప్రస్తుతానికి మూసివేయడం జరిగింది.</string>
+    <string name="lasttime_applist_cloud">అప్‌డేట్ అయిన అఫ్లికేషన్‌లు:</string>
+    <string name="lasttime_feature_cloud">అప్‌డేట్ అయిన ఫీచర్‌లు:</string>
+    <string name="modify_data">డేటాని సవరించు</string>
+    <string name="power_consume_abnormal_night">బ్యాటరీ రాత్రిపూట ఖాళీ అయింది</string>
+    <string name="privacy">గోప్యతా విధానం</string>
+    <string name="save_data">డేటాని సేవ్ చేయి</string>
+    <string name="screen_off_current">స్క్రీన్ ఆఫ్ DC</string>
+    <string name="screen_on_current">స్క్రీన్ ఆన్ DC</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">అప్లికేషన్‌లు ఏవీ గుర్తించబడలేదు</string>
+    <string name="softbank_high_temp_toast_time_10min">అతిగా వేడెక్కడాన్ని నివారించేందుకు ఫ్లాష్‌లైట్ ఆఫ్ చేయండి</string>
+    <string name="softbank_high_temp_toast_time_4min">అతిగా వేడెక్కడాన్ని నివారించేందుకు ఫ్లాష్ ఆఫ్ చేయబడింది</string>
+    <string name="stricter_high_temp_state_message">ఈ పరికరం బాగా వేడెక్కినట్లు తెలుస్తోంది. మీరు ప్రస్తుతానికి ఫోన్ మరియు పరిచయాలను మాత్రమే ఉపయోగించగలరు.</string>
+    <string name="sucess">పూర్తయింది</string>
+    <string name="thermal_cancel">రద్దు చేయి</string>
+    <string name="thermal_confirm">సరే</string>
+    <string name="trig_temperature">ప్రారంభ ఉష్ణోగ్రత</string>
+</resources>

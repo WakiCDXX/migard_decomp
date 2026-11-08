@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">Kasa ta hali na ayyuka</string>
+    <string name="app_name">Batir da aiki</string>
+    <string name="base_info">Bayanan tushen</string>
+    <string name="checking_intranet">Ana duba haɗin intranet…</string>
+    <string name="clear_temperature">Kafin zafin karewa</string>
+    <string name="cloud_addr_info">Bayanan Cloud</string>
+    <string name="confirm">Ya Yi</string>
+    <string name="connect_intranet_hint">Hada da intranet</string>
+    <string name="delete_data_confirm">Ya share wannan abubuwa a yanzu?</string>
+    <string name="enable_sleep_mode">Kunna Yanayin barci don ka sabunta amfanin batir dadare</string>
+    <string name="failure">Kuskure</string>
+    <string name="high_temp_benchmark_state">Zafi fiye da kima</string>
+    <string name="high_temp_benchmark_state_message">Da alama wannan na\'urar tayi zafi sosai yanzu. Yi amfani da wannan manhaja bayan na\'urar ta huce: </string>
+    <string name="high_temp_state">Zafi fiye da kima</string>
+    <string name="high_temp_state_message">Na\'urarka yayi zafi fiye da kima. Zai takaita bayanan mobayil, Hotspot na Wi-Fi, GPS, da kyamara.</string>
+    <string name="high_temp_state_message_orange_es">Don inganta aikin na\'ura, an kashe wasu manhaja na ɗan lokaci.</string>
+    <string name="insert_data">Saka bayanai</string>
+    <string name="kill_all_back_pro_toast_message">Na\'urarku tayi zafi sosai. Rufe dukan manhajar da ke gudana a bango a yanzu.</string>
+    <string name="kill_pkg_toast_message">Ba za a iya amfani da na\'ura ba saboda zafi fiye da kima</string>
+    <string name="kill_some_back_pro_toast_message">Na\'urarku tayi zafi sosai. Rufe wasu manhajar da ke gudana a bango a yanzu.</string>
+    <string name="lasttime_applist_cloud">Manhajar da aka sabunta:</string>
+    <string name="lasttime_feature_cloud">Siffofin da aka sabunta:</string>
+    <string name="modify_data">Canza bayanai</string>
+    <string name="power_consume_abnormal_night">Batir na ci dadare</string>
+    <string name="privacy">Sharuddan Bayanai</string>
+    <string name="save_data">Adana bayanai</string>
+    <string name="screen_off_current">DC allon kashe</string>
+    <string name="screen_on_current">DC allon kunne</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">Ba\'a samu wani manhaja ba</string>
+    <string name="softbank_high_temp_toast_time_10min">Kashe fitilan filash don kaucewa zafi fiye da kima</string>
+    <string name="softbank_high_temp_toast_time_4min">Kashe filash don kaucewa zafi fiye da kima</string>
+    <string name="stricter_high_temp_state_message">Da alama wannan na\'urar ta yi zafi sosai. Za ku iya amfani da Waya da Lambobi kawai a yanzu.</string>
+    <string name="sucess">An gama yi</string>
+    <string name="thermal_cancel">Soke</string>
+    <string name="thermal_confirm">Ya yi</string>
+    <string name="trig_temperature">Kafin zafin farawa</string>
+</resources>

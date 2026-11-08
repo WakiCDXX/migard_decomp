@@ -1,0 +1,91 @@
+{
+  "work_status": "local",
+  "thermal_cloud_event": [
+    "genApps",
+    "apps",
+    "total"
+  ],
+  "parameters": [
+    {
+      "event": "genApps",
+      "rule": [
+        "genApps_foreground",
+        "genApps_broad",
+        "genApps_ambient",
+        "genApps_flash"
+      ],
+      "collectors": {
+        "genApps_foreground": [
+          "CollectorHead",
+          "CollectorThermal",
+          "CollectorThermalPlus",
+          "CollectorNet",
+          "CollectorDisplay",
+          "CollectorBluetooth",
+          "CollectorAudio",
+          "CollectorMisc",
+          "CollectorForegroundEnd",
+          "CollectorForegroundStart",
+          "CollectorCameraState",
+          "CollectorMicroPhoneState"
+        ],
+        "genApps_broad": [
+          "CollectorThermal",
+          "CollectorThermalPlus",
+          "CollectorNet",
+          "CollectorMisc",
+          "CollectorPopUpWindow",
+          "CollectorBoard",
+          "CollectorCompoundScenario",
+          "CollectorCameraState",
+          "CollectorMicroPhoneState"
+        ],
+        "genApps_ambient": [
+          "CollectorAmbient"
+        ],
+        "genApps_flash": [
+          "CollectorFlash"
+        ]
+      },
+      "trigger": {
+        "genApps_foreground": "ForegroundTrigger",
+        "genApps_broad": "BroadTempTrigger",
+        "genApps_ambient": "AmbientTempTrigger",
+        "genApps_flash": "FlashTempTrigger"
+      },
+      "extra": "{'start_collectors':['CollectorHead','CollectorThermal','CollectorThermalPlus','CollectorNet','CollectorForegroundStart','CollectorCameraState','CollectorMicroPhoneState'],'end_collectors':['CollectorThermal','CollectorThermalPlus','CollectorNet','CollectorDisplay','CollectorBluetooth','CollectorAudio','CollectorMisc', 'CollectorForegroundEnd','CollectorCameraState','CollectorMicroPhoneState'],'temp_collectors':['CollectorThermal','CollectorThermalPlus','CollectorNet','CollectorMisc','CollectorPopUpWindow','CollectorBoard','CollectorCompoundScenario','CollectorCameraState','CollectorMicroPhoneState'],'ambient_collectors':['CollectorAmbient'],'flash_collectors':['CollectorFlash'],'interval':60}"
+    },
+    {
+      "event": "apps",
+      "rule": [
+        "apps_foreground"
+      ],
+      "collectors": {
+        "apps_foreground": [
+          "CollectorOldThermal",
+          "CollectorHead"
+        ]
+      },
+      "trigger": {
+        "apps_foreground": "ForegroundTrigger"
+      },
+      "extra": "1800"
+    },
+    {
+      "event": "total",
+      "rule": [
+        "total_battery"
+      ],
+      "collectors": {
+        "total_battery": [
+          "CollectorOldThermal",
+          "CollectorHead"
+        ]
+      },
+      "trigger": {
+        "total_battery": "BatteryTrigger"
+      },
+      "extra": "10"
+    }
+  ]
+}

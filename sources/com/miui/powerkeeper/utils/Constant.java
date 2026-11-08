@@ -1,0 +1,61 @@
+package com.miui.powerkeeper.utils;
+
+import android.os.Build;
+import android.util.Log;
+
+/* JADX INFO: loaded from: classes.dex */
+public class Constant {
+    public static final String COMMON_SCREEN_OFF_TIMEOUT = "screen_off_disable_sync";
+    public static final String FUNC_ALARM_CONTROL = "alarm_control";
+    public static final String FUNC_AUTO_CLOSE_WIFI_AP = "auto_close_wifi_ap";
+    public static final String FUNC_CLEAR_UNACTIVE_MUSIC_APPS = "clear_unactive_music_apps";
+    public static final String FUNC_DEEP_SLEEP_CHECK = "func_deep_sleep_check";
+    public static final String FUNC_DEEP_SLEEP_MODE_CLOUD = "deep_sleep_mode_cloud";
+    public static final String FUNC_ENABLE_TXPOWER_CHANGED = "enable_txpower_changed";
+    public static final String FUNC_FAKE_GPS = "fakegps";
+    public static final String FUNC_GET_TXPOWER = "txpower";
+    public static final String FUNC_GMS_CONTROL = "gms_control";
+    public static final String FUNC_MONITOR_NIGHT_BATTERY_USAGE_CHECK = "night_battery_usage";
+    public static final String FUNC_NETWORK_TRAFFIC_CHECK = "network_traffic";
+    public static final String FUNC_NIGHT_ABNORMAL_DATA = "night_abnormal1";
+    public static final String FUNC_NIGHT_CLEAN_PROCESS = "night_clean_process";
+    public static final String FUNC_NIHGT_SUBSYSAWAKE_CHECK = "subsysawake_check";
+    public static final String FUNC_NON_UI_MODE = "nonui_mode";
+    public static final String FUNC_NON_UI_MODE_USER = "nonui_mode_user";
+    public static final String FUNC_POWER_STATE_MACHINE = "power_statemachine";
+    public static final String FUNC_SCREEN_OFF_CLEAN_APP = "screen_off_clean_app";
+    public static final String FUNC_SCREEN_OFF_DISABLE_SYNC = "screen_off_disable_sync";
+    public static final String FUNC_SCREEN_OFF_FORCE_IDLE = "screen_off_force_idle";
+    public static final String FUNC_SHUTDOWN_CHECK = "shutdown_power";
+    public static final String FUNC_SLEEP_MODE_CLOUD = "sleep_mode_cloud";
+    public static final String FUNC_SLEEP_MODE_USER = "sleep_mode_user";
+    public static final String FUNC_THERMAL_IECTEST_CONFIG_ENABLE = "thermal_IECtest_config_enable";
+    public static final String FUNC_THERMAL_SCENARIO_CONFIG_ENABLE = "thermal_scenario_config_enable";
+    public static final String FUNC_THERMAL_SPTM_CONFIG_ENABLE = "thermal_sptm_config_enable";
+    public static final String INTENT_ACTION_NONUI_SETTING_CHANGED = "intent_action_nonui_setting_changed";
+    public static final int INVALID_VALUE = -1;
+    public static final int JOB_ID_CLOUD_UPDATE = 17495000;
+    public static final int NIGHT_BEGIN = 23;
+    public static final int NIGHT_END = 7;
+    public static final int PARA2_FUNC_SLEEP_MODE_CLOUD_INDEX_BEGIN_TIME = 3;
+    public static final int PARA2_FUNC_SLEEP_MODE_CLOUD_INDEX_END_TIME = 4;
+    public static final int PARA2_FUNC_SLEEP_MODE_CLOUD_INDEX_LIGHT = 2;
+    public static final int PARA2_FUNC_SLEEP_MODE_CLOUD_INDEX_MAXTIMES = 0;
+    public static final int PARA2_FUNC_SLEEP_MODE_CLOUD_INDEX_STATIONARY = 1;
+    public static final int PARA2_SCREEN_OFF_CLEAN_APP_INDEX_PRIORITY = 1;
+    public static final int PARA2_SCREEN_OFF_CLEAN_APP_INDEX_TIME = 0;
+    public static final int PARA2_SCREEN_OFF_CLEAN_APP_INDEX_WHITELIST = 2;
+    public static final int PARA2_SCREEN_OFF_CLEAN_POLICY = 3;
+    public static final int PARA_SHUTDOWN_INDEX_TYPE_DIS_START_LEVEL = 0;
+    public static final int PARA_SHUTDOWN_INDEX_TYPE_SCREEN_ON_RATIO = 2;
+    public static final int PARA_SHUTDOWN_INDEX_TYPE_TIME_ON_BATTERY = 1;
+    public static final int STATE_DEEP_SLEEP = 2;
+    public static final int STATE_LIGHT_SLEEP1 = 1;
+    public static final int STATE_LIGHT_SLEEP2 = 3;
+    public static final int STATE_NO_SLEEP = 0;
+    public static final String TAG_PREFIX = "PowerKeeper.";
+    public static final boolean DEBUG = Build.IS_DEBUGGABLE;
+    public static final boolean DBG_ACTIVE = Log.isLoggable("PowerKeeper.Active", 3);
+    public static final boolean DBG_SM = Log.isLoggable("powerkeeper.sm", 3);
+    public static String PROP_START_TIMES = "sys.power.starttimes";
+}

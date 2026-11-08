@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">Clasificadas por estado da actividade</string>
+    <string name="app_name">Batería e rendimento</string>
+    <string name="base_info">Información de base</string>
+    <string name="checking_intranet">Comprobando as conexións de intranet…</string>
+    <string name="clear_temperature">Temperatura final</string>
+    <string name="cloud_addr_info">Información da nube</string>
+    <string name="confirm">Aceptar</string>
+    <string name="connect_intranet_hint">Conectar á internet</string>
+    <string name="delete_data_confirm">Desexas borrar este elemento agora?</string>
+    <string name="enable_sleep_mode">Activa o modo suspensión para optimizar o uso da batería pola noite</string>
+    <string name="failure">Erro</string>
+    <string name="high_temp_benchmark_state">Sobrequentado</string>
+    <string name="high_temp_benchmark_state_message">Parece ser que este dispositivo está demasiado quente agora. Usa esta aplicación despois de que o dispositivo se enfríe: </string>
+    <string name="high_temp_state">Sobrecquentando</string>
+    <string name="high_temp_state_message">O seu dispositivo estase sobrequentando. Os datos móbiles, os puntos Wi-Fi, o GPS e a cámara restrinxiranse.</string>
+    <string name="high_temp_state_message_orange_es">Para mellorar o rendemento do dispositivo, algunhas aplicacións foron temporalmente deshabilitadas.</string>
+    <string name="insert_data">Insertar datos</string>
+    <string name="kill_all_back_pro_toast_message">O teu dispositivo está sobrequentado. Pecha todas as aplicacións que funcionan en segundo plano polo de agora.</string>
+    <string name="kill_pkg_toast_message">Non é posible usar as aplicacións por sobrequencemento do dispositivo</string>
+    <string name="kill_some_back_pro_toast_message">O teu dispositivo está sobrequentado. Pecha algunhas aplicacións que funcionan en segundo plano polo de agora.</string>
+    <string name="lasttime_applist_cloud">Aplicacións actualizadas:</string>
+    <string name="lasttime_feature_cloud">Características actualizadas:</string>
+    <string name="modify_data">Modificar datos</string>
+    <string name="power_consume_abnormal_night">A batería baléirase pola noite</string>
+    <string name="privacy">Política de privacidade</string>
+    <string name="save_data">Gardar datos</string>
+    <string name="screen_off_current">Pantalla apagada CC</string>
+    <string name="screen_on_current">Pantalla acesa CC</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">Non se puido atopar ningunha aplicación</string>
+    <string name="softbank_high_temp_toast_time_10min">Desactivouse a lanterna para evitar o requentamento</string>
+    <string name="softbank_high_temp_toast_time_4min">Desactivouse o flash para evitar o requentamento</string>
+    <string name="stricter_high_temp_state_message">Parece que este dispositivo está sobrequentado. Solo poderás utilizar o Teléfono e os Contactos polo de agora.</string>
+    <string name="sucess">Feito</string>
+    <string name="thermal_cancel">Cancelar</string>
+    <string name="thermal_confirm">Aceptar</string>
+    <string name="trig_temperature">Temperatura inicial</string>
+</resources>

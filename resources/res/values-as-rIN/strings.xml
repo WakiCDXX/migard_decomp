@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">কাৰ্যকলাপ স্থিতি অনুসৰি ক্ৰমবদ্ধ কৰক</string>
+    <string name="app_name">বেটাৰী আৰু কাৰ্যদক্ষতা</string>
+    <string name="base_info">আধাৰ তথ্য</string>
+    <string name="checking_intranet">ইনট্ৰানেট সংযোগ পৰীক্ষা কৰি আছে…</string>
+    <string name="clear_temperature">সমাপ্তি তাপমান</string>
+    <string name="cloud_addr_info">ক্লাউড তথ্য</string>
+    <string name="confirm">ঠিক</string>
+    <string name="connect_intranet_hint">ইনট্ৰানেটলৈ সংযোগ কৰক</string>
+    <string name="delete_data_confirm">এতিয়া এই আইটেম বিলোপ কৰিবনে?</string>
+    <string name="enable_sleep_mode">নিশা বেটাৰীৰ ব্যৱহাৰ সৰ্বোৎকৃষ্ট কৰিবলৈ নিদ্ৰা ম\'ড অন কৰক</string>
+    <string name="failure">ত্ৰুটি</string>
+    <string name="high_temp_benchmark_state">অত্যাধিক গৰম</string>
+    <string name="high_temp_benchmark_state_message">এতিয়া এই ডিভাইচটো অতি গৰম যেন লাগিছে। ডিভাইচটো ঠাণ্ডা হোৱাৰ পিছত এই এপটো ব্যৱহাৰ কৰক: </string>
+    <string name="high_temp_state">অত্যাধিক গৰম</string>
+    <string name="high_temp_state_message">ডিভাইচটো অত্যাধিক গৰম হৈছে। ম\'বাইল ডাটা, ৱাই-ফাই হটস্পট, জিপিএছ আৰু কেমেৰা প্ৰতিবন্ধিত কৰা হ\'ব।</string>
+    <string name="high_temp_state_message_orange_es">ডিভাইচৰ কাৰ্যদক্ষতা উন্নত কৰিবলৈ, কিছুমান এপ সাময়িকভাৱে অক্ষম কৰা হৈছে।</string>
+    <string name="insert_data">ডাটা আন্তঃসংযোগ কৰক</string>
+    <string name="kill_all_back_pro_toast_message">আপোনাৰ ডিভাইচটো অধিক গৰম হৈছে। এতিয়া পৃষ্ঠভূমিত চলি থকা সকলোবিলাক এপ বন্ধ কৰক।</string>
+    <string name="kill_pkg_toast_message">ডিভাইচ অত্যাধিক গৰম হোৱাৰ বাবে এপসমূহ ব্যৱহাৰ কৰিব নোৱাৰি</string>
+    <string name="kill_some_back_pro_toast_message">আপোনাৰ ডিভাইচটো অধিক গৰম হৈছে। এতিয়া পৃষ্ঠভূমিত চলি থকা কিছুমান এপ বন্ধ কৰক।</string>
+    <string name="lasttime_applist_cloud">আপডেট কৰা এপসমূহ:</string>
+    <string name="lasttime_feature_cloud">আপডেট কৰা বৈশিষ্ট্য:</string>
+    <string name="modify_data">ডাটা সংশোধন কৰক</string>
+    <string name="power_consume_abnormal_night">ৰাতি বেটাৰী খৰচ হ\'ল</string>
+    <string name="privacy">গোপনীয়তাৰ নীতি</string>
+    <string name="save_data">ডাটা সংৰক্ষণ কৰক</string>
+    <string name="screen_off_current">স্ক্ৰীণ অফ DC</string>
+    <string name="screen_on_current">স্ক্ৰীণ অন DC</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">কোনো এপ বিচাৰি পোৱা নগ\'ল</string>
+    <string name="softbank_high_temp_toast_time_10min">অত্যাধিক গৰম হোৱাটো পৰিহাৰ কৰিবলৈ ফ্লাছলাইট অফ কৰা হৈছে</string>
+    <string name="softbank_high_temp_toast_time_4min">অত্যাধিক গৰম হোৱাটো পৰিহাৰ কৰিবলৈ ফ্লাছ অফ কৰা হৈছে</string>
+    <string name="stricter_high_temp_state_message">ডিভাইচটো অত্যাধিক গৰম হোৱা যেন লাগিছে। আপুনি এতিয়া কেৱল ফোন আৰু সম্পৰ্ক ব্যৱহাৰ কৰিবলৈ সক্ষম হ\'ব।</string>
+    <string name="sucess">কৰা হ\'ল</string>
+    <string name="thermal_cancel">বাতিল</string>
+    <string name="thermal_confirm">ঠিক</string>
+    <string name="trig_temperature">আৰম্ভ তাপমান</string>
+</resources>

@@ -1,0 +1,804 @@
+Manifest-Version: 1.0
+Created-By: soong_zip
+
+Name: AndroidManifest.xml
+SHA-256-Digest: bftU2XoyF3KP6Y37EBlWbT2pgY2lOAKcryQCZcwRTio=
+
+Name: assets/OWNERS
+SHA-256-Digest: SqMxcpQhjiMiquAVSQ02830ishAl/YVolGxn0XKewmI=
+
+Name: assets/abnormal_consume.config
+SHA-256-Digest: GDrZtACFE3th5TqEFZxBURSz5gKfYNESwn2KRFD6/PA=
+
+Name: assets/local.config
+SHA-256-Digest: 3jMnrs/ykiSJIu+ziP7+lVhVorrH/GSx17GROvoXgJI=
+
+Name: assets/local.config.md5
+SHA-256-Digest: HlfVto70A/sqYCHWUK558Ok7QBekGn2iay4L0GZ32lA=
+
+Name: assets/log_system_config.json
+SHA-256-Digest: e7kwu/zlArEkkMVzyR1C9nLdBSY/Wrz9Q5sq1MujP6U=
+
+Name: assets/overlay/XIG03/local.config
+SHA-256-Digest: 1FfZOWcxrgU25xWwFLy7nUFVLWufyiMtgwtKOpiVVjs=
+
+Name: assets/overlay/XIG04/local.config
+SHA-256-Digest: +qJUHp1uxCmtzuCbTMYkd9Dy1WW9mseCDdiUpSqJrac=
+
+Name: assets/overlay/XIG05/local.config
+SHA-256-Digest: aM1P/b9k+bOuxdlGfVRD0CBLHAQLL9rv6cf4bdiKIIU=
+
+Name: assets/overlay/air/local.config
+SHA-256-Digest: AZ9FUvMbT6PelL9SkrTQJhKACeSU/Xk+PhsntRXbSdI=
+
+Name: assets/overlay/alioth/local.config
+SHA-256-Digest: TRU2K6IoPexKRBbFveo3nYKfhdQ7fIydfJ9qzUmQIZE=
+
+Name: assets/overlay/amber/local.config
+SHA-256-Digest: vkrANlsa9uRu8igwDAH6osWvMsQNQD7IR3nHOSM0bok=
+
+Name: assets/overlay/amethyst/local.config
+SHA-256-Digest: OjMZfyolOMOObLCecu2U5r+V5R+m9CRWb+2Ti+mhHRA=
+
+Name: assets/overlay/amethyst_intl/local.config
+SHA-256-Digest: HrDzY7T5wGUFypmYRVxY9uqFOi8qc+q2HqwWcHUQsA0=
+
+Name: assets/overlay/apollo/local.config
+SHA-256-Digest: +93BOjZLWTNPLao9Zi85EOtZvOTICHA5Be05C0L2+AY=
+
+Name: assets/overlay/aristotle/local.config
+SHA-256-Digest: C7/IFlPOUIa1GO8DKUxLKO1YbklDGGbrINt0JIO7GGw=
+
+Name: assets/overlay/atmos/local.config
+SHA-256-Digest: GqePwCUirqWKfw8WfivuRrxlbRokwoyJAzXxTBIlER0=
+
+Name: assets/overlay/aurora/local.config
+SHA-256-Digest: lPDPM25cs+mgf1+rj397ewaosSlLnxjG7Q7BhgHNAqw=
+
+Name: assets/overlay/aurora_intl/local.config
+SHA-256-Digest: NYDKTA4kGX6bj7QsI2fMWJS4j9Z6Ct7Cqc4B0EoM4kM=
+
+Name: assets/overlay/babylon/local.config
+SHA-256-Digest: 15HtOnVEiKm2Cu8iyj1a8nfgp4T+HeLVjBF3ukbmT/M=
+
+Name: assets/overlay/breeze/local.config
+SHA-256-Digest: Tn91Qryfdtcnrj6XVL3T5vzNTunPQ2sM8okajcpNo7M=
+
+Name: assets/overlay/breeze_intl/local.config
+SHA-256-Digest: kRp0kj6OrQVA9buBZ+bKuzcffMXbL3gOv2fOfY6rgA0=
+
+Name: assets/overlay/camellia/local.config
+SHA-256-Digest: N1xlQv1CLQ51BMliIFvYhI3s3UOcTBcA5Gi19LyPfys=
+
+Name: assets/overlay/cannon/local.config
+SHA-256-Digest: 1XuoJFY8bDhj6A3xjDO1oipuwCU4nqQ2ssQh6KB1tKU=
+
+Name: assets/overlay/cas/local.config
+SHA-256-Digest: I4Le2kyjcSYfvvYEPY9GzquMQ+qskEE8f/DlzUgMGmQ=
+
+Name: assets/overlay/cetus/local.config
+SHA-256-Digest: 1oERSjZ9tQKy7zCY6D8I98dwdQ3rUqUDAK3Iw36HfjM=
+
+Name: assets/overlay/chenfeng/local.config
+SHA-256-Digest: XtUQk6Wl7Z8FpzBtEUnnKAR+I2R+zKXx9HXqxssJHOw=
+
+Name: assets/overlay/chenfeng_intl/local.config
+SHA-256-Digest: 1lE4wip9yKfQTV9wBGQYwCgdbmIFCz1dRrPrCgvEnKc=
+
+Name: assets/overlay/chopin/local.config
+SHA-256-Digest: 1XuoJFY8bDhj6A3xjDO1oipuwCU4nqQ2ssQh6KB1tKU=
+
+Name: assets/overlay/cmi/local.config
+SHA-256-Digest: j3G9sZJnfGgBKcv7tNWke3PbjEkWtyJ2Tdl/3IGvouU=
+
+Name: assets/overlay/corot/local.config
+SHA-256-Digest: ppr4XrXyDW4jm8nyzfq8ZIHD6g8fJcu6a1ndxvmkRJw=
+
+Name: assets/overlay/corot_intl/local.config
+SHA-256-Digest: qU53ck2mzHtOjKQk/0VURwPZBHCngLvY2V6eRf5kqv4=
+
+Name: assets/overlay/courbet/local.config
+SHA-256-Digest: WWN54NOT7auWStTT4L3Upa66UOIvOdipR9Mrc8oTgY0=
+
+Name: assets/overlay/cupid/local.config
+SHA-256-Digest: 9xPGbY/y001k/63R6wNArdl0HMBE6jTiGcJxlCu31V8=
+
+Name: assets/overlay/dada/local.config
+SHA-256-Digest: 3sI90TRzTO7gXEmMolvqwg1vvgE3Emo+6J37/uUuosQ=
+
+Name: assets/overlay/dagu/local.config
+SHA-256-Digest: 46nf1FHUq1IEzMIv2At/KloeorGDK9Z7I68ll0C+l3A=
+
+Name: assets/overlay/daumier/local.config
+SHA-256-Digest: cVec2x+kGcUmMuHxdDiFyN0uCwMXm/M+aXdU6Q0eQz0=
+
+Name: assets/overlay/degas/local.config
+SHA-256-Digest: ILAOey1/3+Qw4kUqUSZQNmroxosTN+w1S5jdzi9ygtw=
+
+Name: assets/overlay/dijun/local.config
+SHA-256-Digest: rM1JUSNdrch5wnLd9HosWD7HDs3fun1BpBL0k8vKvV4=
+
+Name: assets/overlay/diting/local.config
+SHA-256-Digest: L2xCSjyv5dG915WaJhmpBszs1RzJQENrwBrlfPVXenc=
+
+Name: assets/overlay/dizi/local.config
+SHA-256-Digest: hwHQiKGtne79w/tGtK3udTxu8qkwoP51Yr4xo8jcX1Y=
+
+Name: assets/overlay/duchamp/local.config
+SHA-256-Digest: kQ0+WM0tdk/K8kjJv6UMJaKF92BXUvUX5bCrrPnC8SQ=
+
+Name: assets/overlay/duchamp_intl/local.config
+SHA-256-Digest: +9AWuOLTiy+hRqHmF0kOABpdK3uNFAM3OvRiE6hwqqw=
+
+Name: assets/overlay/earth/local.config
+SHA-256-Digest: EwU3BO9zvpAkNum3dfVss0aVJYRv7Bhpqy1v8jppa3A=
+
+Name: assets/overlay/earth_intl/local.config
+SHA-256-Digest: jGdxPrYsqC+eigb5IPqYoF1GTh/5pOFers2KRELcrVA=
+
+Name: assets/overlay/elish/local.config
+SHA-256-Digest: +GRwCHjxips1Rgc9hq3HI/L377UYQz4+UrZHIgI72a0=
+
+Name: assets/overlay/emerald/local.config
+SHA-256-Digest: Kz6AxIHYRGGv4KfUFu8vTnNuKL3GWdCCFH8Wc1XXhpw=
+
+Name: assets/overlay/enuma/local.config
+SHA-256-Digest: 3dNllB2kTVe2MvBd4K/qOhZnvWQaqNRP23U5P6zflvw=
+
+Name: assets/overlay/fire/local.config
+SHA-256-Digest: hs5x38gPpyTbu2ptnApWJZFdILLg0ae0XaT2sL7/LVk=
+
+Name: assets/overlay/flare/local.config
+SHA-256-Digest: Y8x4KAO0eYlROzQKQGAzYyOy8N0OwelHfxooHZwUwss=
+
+Name: assets/overlay/flare_intl/local.config
+SHA-256-Digest: Y8x4KAO0eYlROzQKQGAzYyOy8N0OwelHfxooHZwUwss=
+
+Name: assets/overlay/fleur/local.config
+SHA-256-Digest: 1if5EGO5usaZA/2i8Iol8iy5zdudRO56LeDodJP/tzA=
+
+Name: assets/overlay/fuxi/local.config
+SHA-256-Digest: Mbsg4Mrcu7wKfLkEVW6dkSrBbMGXEux+gC9y9OBoKAY=
+
+Name: assets/overlay/fuxi_intl/local.config
+SHA-256-Digest: 7ndVTU/D6L8sto7tnKMzn894KXzzKS5h5I8E+L3veDI=
+
+Name: assets/overlay/gale/local.config
+SHA-256-Digest: +AEiPcZq5ditC5wdZqM9FVgwYAvp/Hi0Wx/UM8OTwlg=
+
+Name: assets/overlay/garnet/local.config
+SHA-256-Digest: EYoLzOzYQd/dvkirCMsMYQi0P880TecBZpJkidryQrY=
+
+Name: assets/overlay/garnet_intl/local.config
+SHA-256-Digest: +DbLWPveeuPMotPdIKnCy7SMxpc+0OF0EZZN1+bsKxo=
+
+Name: assets/overlay/gauguin/local.config
+SHA-256-Digest: Rez8BqaKSr8Ul2ptr0/996rHTUO3bAtQC2ckEs/7Zj4=
+
+Name: assets/overlay/gauguin_intl/local.config
+SHA-256-Digest: Wfb5/rHcG8UxUozSFKNlVKxp4sHFMT6JriZNqxf4nzc=
+
+Name: assets/overlay/ginkgo/local.config
+SHA-256-Digest: HSiJnoGVePm143ppzB3UT0xKhFNmOdgFPmamSnrrelE=
+
+Name: assets/overlay/goku/local.config
+SHA-256-Digest: Bp+2+0jDNRgBCS4iL+PB39TaREOtRU7N0Y9Twjgp0eE=
+
+Name: assets/overlay/gold/local.config
+SHA-256-Digest: V4dXd9EQAgHIuCM0X8qQWKIzRbsSTSiBgZgIRGQYAlA=
+
+Name: assets/overlay/gold_intl/local.config
+SHA-256-Digest: if6+74dZjihXsvbjxFcK8d57AsTeenM6HDx0f/f6rqc=
+
+Name: assets/overlay/gust/local.config
+SHA-256-Digest: ouNbSsEphAX/08KZTL7TgzggGeZ46CQbwBSyx3LuW5Y=
+
+Name: assets/overlay/haotian/local.config
+SHA-256-Digest: md0Eb855KL3w/6MaQKdz/zwua9oNYhlHwNtzCdJmFFc=
+
+Name: assets/overlay/haydn/local.config
+SHA-256-Digest: VeuL64quQdKin2VlgzEzqUzPw3trlA17kMSys2J8eR8=
+
+Name: assets/overlay/heat/local.config
+SHA-256-Digest: bhHu8/+8s/1lw26x4AjEmldQQBttkjN6f5l9q3kWiOg=
+
+Name: assets/overlay/houji/local.config
+SHA-256-Digest: 4kiMJIq4eAr2eXJpNinRTaQ8YTMmzcG6ElQMDOImCGU=
+
+Name: assets/overlay/houji_intl/local.config
+SHA-256-Digest: y+N7eNPgQPqbQmT+V5RZi2QxdOvs0xYNHWUrUrkBRZw=
+
+Name: assets/overlay/ingres/local.config
+SHA-256-Digest: b+V5oaedMUaINwexO4sGMuOsDkdGqgsxnfBulXCLIrc=
+
+Name: assets/overlay/international/local.config
+SHA-256-Digest: +J3o7yTCNrxp9KcJrRtpXwh/oTIYUt+y4p4T2N0RIo4=
+
+Name: assets/overlay/iron_intl/local.config
+SHA-256-Digest: tpxE64VpYKxJiZTzBDcGAvSVwNG2BzyNZxsJ33IvRSY=
+
+Name: assets/overlay/ishtar/local.config
+SHA-256-Digest: 54RN2YF7TSb9DlZPTezBrGq02++RD3B9DkDHfwJAS2Q=
+
+Name: assets/overlay/ishtar_intl/local.config
+SHA-256-Digest: 5rp/lPKWZ70701w0FsYGaO9v5BVT2ZT4FrpJWZeGaQ0=
+
+Name: assets/overlay/light/local.config
+SHA-256-Digest: TB0XRQD3TmrScr5jkEet8JEhPef57WxjVd0bISzM8hA=
+
+Name: assets/overlay/lime/local.config
+SHA-256-Digest: N1xlQv1CLQ51BMliIFvYhI3s3UOcTBcA5Gi19LyPfys=
+
+Name: assets/overlay/lisa/local.config
+SHA-256-Digest: Usqjj8c04FmGPZ1kpVaCVHBuSr0VFhQd3fjjJ+3sFs4=
+
+Name: assets/overlay/liuqin/local.config
+SHA-256-Digest: y0wbQTu8nbkPJZHZhfYm61lawh/ECkB/HDbEtAj/mZY=
+
+Name: assets/overlay/lmi/local.config
+SHA-256-Digest: 1XuoJFY8bDhj6A3xjDO1oipuwCU4nqQ2ssQh6KB1tKU=
+
+Name: assets/overlay/malachite/local.config
+SHA-256-Digest: BcUJfA+v8mjTMOvo+5H54fInUYCjLf82QWPbZLCRGOs=
+
+Name: assets/overlay/manet/local.config
+SHA-256-Digest: na8gffRDWFcZLqBue6JFDEBzMiAifOcyqEGs4+1zrfE=
+
+Name: assets/overlay/marble/local.config
+SHA-256-Digest: bPuKAcfjz8HC8CBhozyNw14VHJE5zRYPEb28zMd0/GE=
+
+Name: assets/overlay/marble_intl/local.config
+SHA-256-Digest: NKipRlj5dEfSdHVOsYNk2RIi7n1VvVjBMdjHZB7+1/M=
+
+Name: assets/overlay/marblein_intl/local.config
+SHA-256-Digest: C+/D3zdSybNL2eKfLKxnA/fuZdXTaxObvsk/m/3P1hA=
+
+Name: assets/overlay/mars/local.config
+SHA-256-Digest: f3IW9laLMbtbMAvXkCitF39cHiazszpFAwA1dcc/oXc=
+
+Name: assets/overlay/matisse/local.config
+SHA-256-Digest: KlAAPIMVOUQLrF0WXrvjISDX7aIJsigCgmMuauOeodg=
+
+Name: assets/overlay/mayfly/local.config
+SHA-256-Digest: B8y3jeCVchisVnQnbIXfH93aNfv8XHae/O6XkeNyfEw=
+
+Name: assets/overlay/miel/local.config
+SHA-256-Digest: 1if5EGO5usaZA/2i8Iol8iy5zdudRO56LeDodJP/tzA=
+
+Name: assets/overlay/miro/local.config
+SHA-256-Digest: dmVB5rt62+aQdkzoLcBemx11fEClG/bhAXOrmWcGLIw=
+
+Name: assets/overlay/miro_intl/local.config
+SHA-256-Digest: 3LIUNLG1hC6KXQcxaYzVFfLHFvPS66o5Hk0T41re1+o=
+
+Name: assets/overlay/mona/local.config
+SHA-256-Digest: isLI9iaqKXl2jrfy49ERLLQIbF1f7Z8e0ClsqKctaiM=
+
+Name: assets/overlay/mondrian/local.config
+SHA-256-Digest: A9AxrjP1QxE5kdd5/+bmJ5dMALXW4rvk/GbQdgyiNtE=
+
+Name: assets/overlay/moon/local.config
+SHA-256-Digest: PjKfITkc94BsyDoYlS9MoZI+UbK0HCGQhCvzlLPNfIM=
+
+Name: assets/overlay/moon_intl/local.config
+SHA-256-Digest: iKlRWiitByQX0Bb8N2k+khegD+Io+dts4McxZ9lrnuQ=
+
+Name: assets/overlay/munch/local.config
+SHA-256-Digest: ppS8VTNR5o6zlpCJcR3wriyqaoGSOASyuIa2ryQ7qJU=
+
+Name: assets/overlay/muyu/local.config
+SHA-256-Digest: b0Lmu3bFakO0LEmL6RJERT6PvtR+iqhnJ58HDn8xQLY=
+
+Name: assets/overlay/muyu_intl/local.config
+SHA-256-Digest: c/AWF7xDHHLV81Us76pet+kcsDV2lIuxB7oXA9N9ZIk=
+
+Name: assets/overlay/nuwa/local.config
+SHA-256-Digest: 6tSOPPoM4KgHTNKoCFnuU2vD+38lqSHceMdxSU93LjI=
+
+Name: assets/overlay/ocean/local.config
+SHA-256-Digest: Nvp5a4ZH8BLlwMFWgfR1rHRWrWo/+PfTq+26w7PRla8=
+
+Name: assets/overlay/odin/local.config
+SHA-256-Digest: c5tpHRyXsiz6JDPffQgp27KODTGuYnMP8enpVYtIuRc=
+
+Name: assets/overlay/pearl/local.config
+SHA-256-Digest: WvAcaavKdifgAG5DHmvBk1X7FHROq/hWxvYT9DBLAAE=
+
+Name: assets/overlay/peridot/local.config
+SHA-256-Digest: FDjN2cPFlbuZHHbw+Zfvwd+re9UhU5yWQwI0/ei2l2Q=
+
+Name: assets/overlay/picasso/local.config
+SHA-256-Digest: WoNaO4KsAIKXLemtlwBc7J9+BuL2jHiqh1PPpCwWbhk=
+
+Name: assets/overlay/picassoin/local.config
+SHA-256-Digest: 8z7Mh1RH01p2D1AKCyk74umyuB2SmWDKt4/uc7HxNnI=
+
+Name: assets/overlay/pipa/local.config
+SHA-256-Digest: QqceNaGHidSE1DKb3OOgqBmip2/32oKSJoNYn8LhuU4=
+
+Name: assets/overlay/pissarro/local.config
+SHA-256-Digest: u32IZYnWfDeWTaJzmnCe87TEt7C0Ld45RSmWGVNszvw=
+
+Name: assets/overlay/pissarroin/local.config
+SHA-256-Digest: V83oOAVtLhS+1ciN0Q0HW/v9vtKTX+xxFJIS3uiKV14=
+
+Name: assets/overlay/pissarroinpro/local.config
+SHA-256-Digest: V83oOAVtLhS+1ciN0Q0HW/v9vtKTX+xxFJIS3uiKV14=
+
+Name: assets/overlay/pissarropro/local.config
+SHA-256-Digest: FUf73gWS8KslUyuUCH7PP8ew+ZEyr+BAMvjTTdABf+c=
+
+Name: assets/overlay/plato/local.config
+SHA-256-Digest: gZBoilPkwt1D3/LsLR7hUDt0EFvAcz64PJsKTNgv494=
+
+Name: assets/overlay/psyche/local.config
+SHA-256-Digest: 71le4TPFkkVwLlz38ZxGq+DKncQaabH0BSLk7mnONts=
+
+Name: assets/overlay/redwood/local.config
+SHA-256-Digest: kOCVaToVYyFC6t7ScepXiq098VVaVsqHnZLWng9IMf0=
+
+Name: assets/overlay/redwood_intl/local.config
+SHA-256-Digest: 7tNFL3Mb5bpRKHzXidUgPEEwXJ65NQiTuCocU/fbmi0=
+
+Name: assets/overlay/rembrandt/local.config
+SHA-256-Digest: qFn/82h8FnT+vbZnB01fisnTq526vmL1/fvaaU9mMfQ=
+
+Name: assets/overlay/renoir/local.config
+SHA-256-Digest: ZWswVggza0PAMkrVUaFPdgFBDthn5ZcbbbicqoLIrHs=
+
+Name: assets/overlay/river/local.config
+SHA-256-Digest: WpUDFr2m3PYZNXbuqBPcUf0j9ukbb/80vHpmDu/MptU=
+
+Name: assets/overlay/rock/local.config
+SHA-256-Digest: gCE3VpvIp4tVa0vxItrbhIZLpQ6ydrGI6Opr5t0ARuI=
+
+Name: assets/overlay/rodin/local.config
+SHA-256-Digest: JqyHyeUuVm3unBSsPZEreDTCC8eT/NZj7SIqLacObxY=
+
+Name: assets/overlay/rodin_intl/local.config
+SHA-256-Digest: do/5iKdYZrActP+ZcSHrtFkF1lEPhs/xC8H35gSGetI=
+
+Name: assets/overlay/rothko/local.config
+SHA-256-Digest: 3WQ2YHjJ3thzbBj9ZksSvtB4PrkmfXoBBYErkQibqvk=
+
+Name: assets/overlay/rothko_intl/local.config
+SHA-256-Digest: tVhkoHuh6Zu1qA6+NOq5kwMcvyPrvB7w/vgViUl7JFA=
+
+Name: assets/overlay/ruan/local.config
+SHA-256-Digest: hwHQiKGtne79w/tGtK3udTxu8qkwoP51Yr4xo8jcX1Y=
+
+Name: assets/overlay/rubens/local.config
+SHA-256-Digest: X8Gpoapbx/bpZ8RLbqvfjLbA8jgbsijuybOraT7WpEE=
+
+Name: assets/overlay/ruby/local.config
+SHA-256-Digest: nsTYjVfdJJNyQAqnisZD27wSiKfcARmTt8Ajeh7xLbM=
+
+Name: assets/overlay/ruby_intl/local.config
+SHA-256-Digest: +Ej1OpD3Y2mngTlWPg4+XFESWDuaa4k+gpMdKBMlouk=
+
+Name: assets/overlay/rubyplus/local.config
+SHA-256-Digest: 99yJVAafNALKvxy+YagQkc5IBREhJNtXAcLz7IEVtHw=
+
+Name: assets/overlay/rubypro/local.config
+SHA-256-Digest: RGybdKT8b7nqigdXVH0Nmc8HhepKou3veTMdnIre6Us=
+
+Name: assets/overlay/rubypro_intl/local.config
+SHA-256-Digest: 4s7TqvC2AKd3LH7fKMXKXa7IhlmOUqh/tgA24ihnOE4=
+
+Name: assets/overlay/ruyi/local.config
+SHA-256-Digest: tKs+Iggc1h6LrUTK8/aGu+GS7GNPimBD0Xu4d1tTE4U=
+
+Name: assets/overlay/ruyi_intl/local.config
+SHA-256-Digest: oQBdw81i4F02v/wKCzGFQyJgsoOpn6CQfg79vuTsULg=
+
+Name: assets/overlay/sapphire/local.config
+SHA-256-Digest: /0JNVxWqkC/FIKebdNw2k9lLA+W/j3PM2+a7fzMMWTI=
+
+Name: assets/overlay/sapphiren/local.config
+SHA-256-Digest: GeocGfg19+VnzyOzs0Fq61LpT9ScVS5XWGcOauWdS40=
+
+Name: assets/overlay/sea/local.config
+SHA-256-Digest: Nvp5a4ZH8BLlwMFWgfR1rHRWrWo/+PfTq+26w7PRla8=
+
+Name: assets/overlay/sheng/local.config
+SHA-256-Digest: tbRyR/DxWkyUccw7t4/YExly/QwiTFqg8ppWpyuBHvQ=
+
+Name: assets/overlay/sheng_intl/local.config
+SHA-256-Digest: 2sHobq4s2050qXJnzkK5uzTgRFK2iYQA0ryCUfcSHvE=
+
+Name: assets/overlay/shennong/local.config
+SHA-256-Digest: 4aVfAyu/Th+//51gcM3mu/OvH/QzDcjEymLHjmjpbNM=
+
+Name: assets/overlay/shennong_intl/local.config
+SHA-256-Digest: y+N7eNPgQPqbQmT+V5RZi2QxdOvs0xYNHWUrUrkBRZw=
+
+Name: assets/overlay/sky/local.config
+SHA-256-Digest: nlayc+CtY7Xlk+tm9iROGBNikcvkdBprFwKVpbe6mbo=
+
+Name: assets/overlay/socrates/local.config
+SHA-256-Digest: OAlyA1nrIHBRlXM56H+g7Yh8oWWJ+vqoRUa6gSUEOng=
+
+Name: assets/overlay/spark/local.config
+SHA-256-Digest: b+hQS1JaakyTmnil1Yl/vXtcvBnTPljMMyy3IBUZWX4=
+
+Name: assets/overlay/spark_intl/local.config
+SHA-256-Digest: Y8x4KAO0eYlROzQKQGAzYyOy8N0OwelHfxooHZwUwss=
+
+Name: assets/overlay/spes/local.config
+SHA-256-Digest: 1if5EGO5usaZA/2i8Iol8iy5zdudRO56LeDodJP/tzA=
+
+Name: assets/overlay/spesn/local.config
+SHA-256-Digest: 1if5EGO5usaZA/2i8Iol8iy5zdudRO56LeDodJP/tzA=
+
+Name: assets/overlay/star/local.config
+SHA-256-Digest: OGVGPk/gu/j7+U4UXPVa15gDcxD3yGUKd1G5S9wawEg=
+
+Name: assets/overlay/stone/local.config
+SHA-256-Digest: gCE3VpvIp4tVa0vxItrbhIZLpQ6ydrGI6Opr5t0ARuI=
+
+Name: assets/overlay/sunstone/local.config
+SHA-256-Digest: Y9N/btQvV6Cc271fJVBcXVaI1fkL7KDZoP78c/psw0g=
+
+Name: assets/overlay/sunstone_intl/local.config
+SHA-256-Digest: R82tf7WLtpcJvaw/TCTMYwaDX8Q1aarRqzetiZwjGqY=
+
+Name: assets/overlay/sweet/local.config
+SHA-256-Digest: vkrANlsa9uRu8igwDAH6osWvMsQNQD7IR3nHOSM0bok=
+
+Name: assets/overlay/sweet_intl/local.config
+SHA-256-Digest: vrelsjd3zEAEQJ0R77Nwa5Cmz6I/9pQoIJRWUext95w=
+
+Name: assets/overlay/tapas/local.config
+SHA-256-Digest: ZG3h3ko+vUiEInybrizWTztjbgh8l+aGnf28KCJH1Gc=
+
+Name: assets/overlay/thor/local.config
+SHA-256-Digest: oYoUx8NhQwqigFCQJI652rLkr1kU5Pu+Fb9R/wi18jo=
+
+Name: assets/overlay/thunder/local.config
+SHA-256-Digest: TB0XRQD3TmrScr5jkEet8JEhPef57WxjVd0bISzM8hA=
+
+Name: assets/overlay/thyme/local.config
+SHA-256-Digest: 1XuoJFY8bDhj6A3xjDO1oipuwCU4nqQ2ssQh6KB1tKU=
+
+Name: assets/overlay/tides/local.config
+SHA-256-Digest: ZpMkuszaXtb+a4bobs1zip3lHNSJEuY2Tu0nQOZMKOo=
+
+Name: assets/overlay/tides_intl/local.config
+SHA-256-Digest: u0RonzEl+vYM10ulJwDf9ztGMREjoIIIywXLIbfS8Rw=
+
+Name: assets/overlay/topaz/local.config
+SHA-256-Digest: ZG3h3ko+vUiEInybrizWTztjbgh8l+aGnf28KCJH1Gc=
+
+Name: assets/overlay/uke/local.config
+SHA-256-Digest: 6/Asrusdhq0GmhoQ587AtgjmKhcOdacPXHdR6JtqJo4=
+
+Name: assets/overlay/uke_intl/local.config
+SHA-256-Digest: VKtF08cKM3fdI0Y08pGrKKO0xFeU0iKY/3rG3usIzbE=
+
+Name: assets/overlay/umi/local.config
+SHA-256-Digest: j3G9sZJnfGgBKcv7tNWke3PbjEkWtyJ2Tdl/3IGvouU=
+
+Name: assets/overlay/unicorn/local.config
+SHA-256-Digest: mcjOAn09yOIpvvHwjhDq8Tuk1N2ZKVjwgMm1rDnOlqg=
+
+Name: assets/overlay/venus/local.config
+SHA-256-Digest: 6+im2Iub1oFymVxzRVx0o6grHAPraq67/nBqRlBRl34=
+
+Name: assets/overlay/vermeer/local.config
+SHA-256-Digest: 38b3FvLBwqg+PI7KCvuuL3867FYhqKeMquiss18k3H8=
+
+Name: assets/overlay/vermeer_intl/local.config
+SHA-256-Digest: AEaSzKZ0ezze5kmDYzkWKb5hUPkNFLRZw8PKzSft0RI=
+
+Name: assets/overlay/vida/local.config
+SHA-256-Digest: avhd+COLZXioBN5x9lHXSiL+Ukgp9bH270JxtF4I/L8=
+
+Name: assets/overlay/vili/local.config
+SHA-256-Digest: vkrANlsa9uRu8igwDAH6osWvMsQNQD7IR3nHOSM0bok=
+
+Name: assets/overlay/viva/local.config
+SHA-256-Digest: avhd+COLZXioBN5x9lHXSiL+Ukgp9bH270JxtF4I/L8=
+
+Name: assets/overlay/xaga/local.config
+SHA-256-Digest: ae+15tHOlnLjx8MyVQjFzb2cel4Y8JwVsXt2jHEshI8=
+
+Name: assets/overlay/xagain/local.config
+SHA-256-Digest: Bdxwca+1HjzFQ5j9uv9By9D5t/J2n4fK2blSctgQBNM=
+
+Name: assets/overlay/xagapro/local.config
+SHA-256-Digest: StCn4eQ/yx3q5dtLXge8rQpyS+j5vECJnLjGoyjgH6o=
+
+Name: assets/overlay/xagaproin/local.config
+SHA-256-Digest: Bdxwca+1HjzFQ5j9uv9By9D5t/J2n4fK2blSctgQBNM=
+
+Name: assets/overlay/xuanyuan/local.config
+SHA-256-Digest: qWY6slSPHCOqddEQ6qnmUPKwcDVoNwFVWa0d/XkxJPc=
+
+Name: assets/overlay/xun/local.config
+SHA-256-Digest: 347b/+qoPPpugveUcFx2o+V7uNHmPoVelwxVymRQfQ0=
+
+Name: assets/overlay/xun_intl/local.config
+SHA-256-Digest: WtoXLQKpDTdfAo4PzBcgCj364FRgIhuU+g0ePizGST8=
+
+Name: assets/overlay/yudi/local.config
+SHA-256-Digest: cMP+VDNhL4SYMMtVqflecHqFMHoXBeg99DL3I85ZUhU=
+
+Name: assets/overlay/yuechu/local.config
+SHA-256-Digest: z18y9ljMijGrAKeUzkcU++XWtvdDhX1WOXVRaO3y8vQ=
+
+Name: assets/overlay/yunluo/local.config
+SHA-256-Digest: iZxjIbfxy1/lVQVw9FBQfPyY8BW6J7Ckf1x/TaVQXkI=
+
+Name: assets/overlay/yunluo_intl/local.config
+SHA-256-Digest: 0RVWW7v9EeHF0apTxrh0GBOqoGT7wDL+bKyte9e31Tw=
+
+Name: assets/overlay/zeus/local.config
+SHA-256-Digest: Az3Pubws1P5UXvtwatB6MLUN+Sku+DKjRsCRaM6mcG0=
+
+Name: assets/overlay/zijin/local.config
+SHA-256-Digest: ZjT/JJ/h8+h3n37mygxlmswg6fUZuMHKjg9BJYUNuAE=
+
+Name: assets/overlay/zircon/local.config
+SHA-256-Digest: 7qglCL8C+inHafLjk5fR0CkNuR7HQqx8lHF4Sc3bx6A=
+
+Name: assets/overlay/zircon_intl/local.config
+SHA-256-Digest: sX3tiRKfZzkI9q6du1agN5XM8kTRDUQ/Ms6Xm/FrZuY=
+
+Name: assets/overlay/ziyi/local.config
+SHA-256-Digest: zyG8ndbjjRpDRP+Hoy4lmBpYs2gBdgfAyHEVXcByO9I=
+
+Name: assets/overlay/zizhan/local.config
+SHA-256-Digest: 8rRNieUI8wr6+/JOEwvR/iiArVi0wPO/ij9P9r1aHxM=
+
+Name: assets/overlay/zorn/local.config
+SHA-256-Digest: 8SNeqjSxt47yJFLRF79TM9IU5niZeQiuMPJdc8H/I5M=
+
+Name: assets/overlay/zorn_intl/local.config
+SHA-256-Digest: ZEEyWpHWKyyZN3/JWzRt+GgVZFv80P3drkozGyMEj/Y=
+
+Name: assets/pinyinindex.idf
+SHA-256-Digest: e6q8O8Y2hwUbEcytCdlxIcTRNNPGaVhUbMzdjMfjSMI=
+
+Name: assets/pkg2id_app_map
+SHA-256-Digest: sgbnRH2QpRy66t54wZ3XCK96w2ubh/V2XQyHzjEnJeM=
+
+Name: assets/profile_sample.conf
+SHA-256-Digest: Iut12ithJEl5S8UzHrQcJvaESCWVYkSSt8YHqWixVnM=
+
+Name: assets/scene_temp.xml
+SHA-256-Digest: JaZEbuKlwdvOdwqnQ3MxL/VFfumRZ02lwAegFySDG+8=
+
+Name: assets/screen_power_profile.json
+SHA-256-Digest: 9lufYlPneLKd3IslETDK6aYNaCOnH58BgRub6IPhU/A=
+
+Name: assets/setting-old.xml
+SHA-256-Digest: r31XVLvW0rXo5tSAzwJ4l0Z45QYsabs46XKvvQ10G5g=
+
+Name: assets/setting.xml
+SHA-256-Digest: +ANJ2unb1FkdcGcDeH7eHdlHnip1FaWzCKL2fBFBwEY=
+
+Name: assets/smartfps/amethyst/fps_local.config
+SHA-256-Digest: rETMIk8hlp0pbmUpHVjAQT2jRZMaA7Zq3OtSGFpR40U=
+
+Name: assets/smartfps/amethyst_intl/fps_local.config
+SHA-256-Digest: aQsgteomckOPejFbwExgPoqXKebbETrLytDN/O/R3UU=
+
+Name: assets/smartfps/dada/fps_local.config
+SHA-256-Digest: Uj6SquA/ih1JMKB6kBZkISZjjWnkDKCYkZCLy9+vNuk=
+
+Name: assets/smartfps/dada_id/fps_local.config
+SHA-256-Digest: LsOuhuYcJOitZxcVlmOjG9kas0cyGo+Dl8F3wTfBc90=
+
+Name: assets/smartfps/dada_intl/fps_local.config
+SHA-256-Digest: La2lhzQ4u5qvR18M/PNYhqLM+gl1pphN69Kp5lAbf6s=
+
+Name: assets/smartfps/dijun/fps_local.config
+SHA-256-Digest: YBzXTVPnhVkliqrZEiyFDS+0n14e8oybQN7RMLwyIeE=
+
+Name: assets/smartfps/dizi_intl/fps_local.config
+SHA-256-Digest: iBgON64uvClhWExL6xVW1AxIoykIKSE3UavGn/NoOew=
+
+Name: assets/smartfps/flare_intl/fps_local.config
+SHA-256-Digest: j449ax+hqiHL0q79JHHoElwNRR+6jkZT9/r1WfBUJ8M=
+
+Name: assets/smartfps/goku/fps_local.config
+SHA-256-Digest: 4fS++T6zZO1proTwY1W6hF3+g+6n4XZJYuriROcZ4c0=
+
+Name: assets/smartfps/haotian/fps_local.config
+SHA-256-Digest: OHZpyNV7OTgWSSiy9kefX5Jk1kzgnHUOGGLmkbklPtA=
+
+Name: assets/smartfps/haotian_intl/fps_local.config
+SHA-256-Digest: snA03kjNSOeHlk8/q42eAxniZumZT+DazM6Vr4FB9mU=
+
+Name: assets/smartfps/miro/fps_local.config
+SHA-256-Digest: e/qH1z8Zmacz7vfpQqDaq47Y0kOKX44yad1Qhh7X6Xg=
+
+Name: assets/smartfps/miro_id/fps_local.config
+SHA-256-Digest: snSghOYZcoR0NZiBomyfaqbPLXTap364+LG+Qfh+/JI=
+
+Name: assets/smartfps/miro_intl/fps_local.config
+SHA-256-Digest: ujrgEKvtewjS+2VZavmNNND2Vru7k3sOESjViMV296k=
+
+Name: assets/smartfps/muyu/fps_local.config
+SHA-256-Digest: uAsCN1J3WG3NSqSq3aifIMcca3g9V7AR/RRe8SAWSU0=
+
+Name: assets/smartfps/muyu_intl/fps_local.config
+SHA-256-Digest: 2yF8SKGhfb0hmICXS9epImEpfivmtR2YRlyupWRfwaA=
+
+Name: assets/smartfps/opt_dafault_config/fps_local.config
+SHA-256-Digest: wEvHkAi2Rmv2PkhgkzKE7dSu0WAGZdUL3M76JHi0Sxg=
+
+Name: assets/smartfps/peridot/fps_local.config
+SHA-256-Digest: nMHQEV/MWbJhaNewcfs02Xj6xUh3hOM0MbZaWV0Y7yE=
+
+Name: assets/smartfps/peridot_intl/fps_local.config
+SHA-256-Digest: dNDdfTZs7NyugG2B/Po6LE0xWmFDiaIHqcUDAW6MNo0=
+
+Name: assets/smartfps/rodin/fps_local.config
+SHA-256-Digest: e/qH1z8Zmacz7vfpQqDaq47Y0kOKX44yad1Qhh7X6Xg=
+
+Name: assets/smartfps/rodin_id/fps_local.config
+SHA-256-Digest: snSghOYZcoR0NZiBomyfaqbPLXTap364+LG+Qfh+/JI=
+
+Name: assets/smartfps/rodin_intl/fps_local.config
+SHA-256-Digest: ujrgEKvtewjS+2VZavmNNND2Vru7k3sOESjViMV296k=
+
+Name: assets/smartfps/rothko/fps_local.config
+SHA-256-Digest: e/qH1z8Zmacz7vfpQqDaq47Y0kOKX44yad1Qhh7X6Xg=
+
+Name: assets/smartfps/rothko_id/fps_local.config
+SHA-256-Digest: snSghOYZcoR0NZiBomyfaqbPLXTap364+LG+Qfh+/JI=
+
+Name: assets/smartfps/rothko_intl/fps_local.config
+SHA-256-Digest: ujrgEKvtewjS+2VZavmNNND2Vru7k3sOESjViMV296k=
+
+Name: assets/smartfps/ruan_intl/fps_local.config
+SHA-256-Digest: iBgON64uvClhWExL6xVW1AxIoykIKSE3UavGn/NoOew=
+
+Name: assets/smartfps/ruyi/fps_local.config
+SHA-256-Digest: 6bCi+k0ojq9jc0+fR6uBTvlBlm+bftanclOean+SEB8=
+
+Name: assets/smartfps/ruyi_intl/fps_local.config
+SHA-256-Digest: ww/ZwLqBf4wgNbJtczYya7PuSbAd3FqzQGoBddYKYe8=
+
+Name: assets/smartfps/spark_intl/fps_local.config
+SHA-256-Digest: j449ax+hqiHL0q79JHHoElwNRR+6jkZT9/r1WfBUJ8M=
+
+Name: assets/smartfps/uke/fps_local.config
+SHA-256-Digest: QG7ysRDmWIjhPyX5C8621wm9RA/ZSdm/XSN+z6xLD3g=
+
+Name: assets/smartfps/uke_intl/fps_local.config
+SHA-256-Digest: 2yF8SKGhfb0hmICXS9epImEpfivmtR2YRlyupWRfwaA=
+
+Name: assets/smartfps/xuanyuan/fps_local.config
+SHA-256-Digest: OHZpyNV7OTgWSSiy9kefX5Jk1kzgnHUOGGLmkbklPtA=
+
+Name: assets/smartfps/xuanyuan_id/fps_local.config
+SHA-256-Digest: 8fSheZoknjFPYm5KkZ/osVp1SNrU4WaW3EqJaiZDJkE=
+
+Name: assets/smartfps/xuanyuan_intl/fps_local.config
+SHA-256-Digest: 1nSFKRK5YE9XxfYqOM761e9X7DO3BXf8WKczqY9IqOM=
+
+Name: assets/smartfps/zorn/fps_local.config
+SHA-256-Digest: e/qH1z8Zmacz7vfpQqDaq47Y0kOKX44yad1Qhh7X6Xg=
+
+Name: assets/smartfps/zorn_id/fps_local.config
+SHA-256-Digest: snSghOYZcoR0NZiBomyfaqbPLXTap364+LG+Qfh+/JI=
+
+Name: assets/smartfps/zorn_intl/fps_local.config
+SHA-256-Digest: ujrgEKvtewjS+2VZavmNNND2Vru7k3sOESjViMV296k=
+
+Name: assets/steps.proto
+SHA-256-Digest: 6yskszn14CFUIjLpYnRbtpMsl/9SM0eCTKuMsmtDDek=
+
+Name: assets/syncroot.proto
+SHA-256-Digest: MObquqOBBGPXkisEEVtTlS5XKHAM48BO/EU+3+SRiqw=
+
+Name: assets/thermal_collector.json
+SHA-256-Digest: lbkoHPIACmbghii7ZHaCrgWbhCpadkbEFrkQgcoG2U8=
+
+Name: assets/thermal_collector_config/2.0/thermal_collector.json
+SHA-256-Digest: 1664sGK7vZrXZWNkFxo24HjTEYdTasWTOFtp6tkGwH8=
+
+Name: assets/union_power/common/base.config
+SHA-256-Digest: PyofigWEzuzLZdORBYz0qzidCLppFO4rfC6VEFO5vLY=
+
+Name: assets/union_power/common/other.config
+SHA-256-Digest: Rpq+31eXu1bxr6NaIn66HY97PiLJlCblJ9pLDYOd3hU=
+
+Name: assets/union_power/common/special.config
+SHA-256-Digest: LzuEj/KBiqFB6I0/4cnne+awTE4ZNoClQxwXRO8QBG4=
+
+Name: assets/union_power/corot/intl/other_display_feature_group.config
+SHA-256-Digest: y8S5PdILyah51YXu37onFO4SarTx8Vx83HxPzMgy4xk=
+
+Name: assets/union_power/corot/other_display_feature_group.config
+SHA-256-Digest: gJ53ekAo2TNqZEcZWuB2+DaB0q1B2J7rxhClAHEF3Cs=
+
+Name: assets/union_power/corot/other_mifs_cfg.config
+SHA-256-Digest: FxwKo1chvb0zgxxJglgueDpIAe8SDpVRRo2JQoIuedA=
+
+Name: assets/union_power/degas/special_cpu_doze_group.config
+SHA-256-Digest: 2p/dbyhPIb3O2rUypkxYtbsdVK9OabqJmj3GkyV+0LI=
+
+Name: assets/union_power/duchamp/base_power_save_mode_new.config
+SHA-256-Digest: nMX8y7wwz5RLIKnjLdc3nTAS5s/ms6aLyd7o2kwPebs=
+
+Name: assets/union_power/goku/base_clear_unactive_music_apps.config
+SHA-256-Digest: MMDuUESGihH9h93jE1jkkrzgiFC6G7zU11hrkRbFEzQ=
+
+Name: assets/union_power/goku/base_power_save_mode_new.config
+SHA-256-Digest: wF4bSmvZq0gfd1Z/+JzFGIxhGWMjzTPROerMLRqIM40=
+
+Name: assets/union_power/goku/base_video_idle_config.config
+SHA-256-Digest: hV93OZqh8J/fe5/0JUcjz3iU+Yhqcu6bkb7rQxgrXnI=
+
+Name: assets/union_power/goku/intl/base_power_save_mode_new.config
+SHA-256-Digest: PT7cdiGYvh3TYLGmGmTI8Lot/OA417MA5BcsWveNoWo=
+
+Name: assets/union_power/goku/intl/special_cpu_doze_group.config
+SHA-256-Digest: vbKZ9pwrhd1YuS6LVONUdvPDbWuAc4bsdqwJr0w0LXg=
+
+Name: assets/union_power/goku/special_cpu_doze_group.config
+SHA-256-Digest: j4PpsYdDDc6e96fQZ7NsSWqaZLHPQJ+PACUUk4KHNE0=
+
+Name: assets/union_power/manet/base_power_save_mode_new.config
+SHA-256-Digest: nMX8y7wwz5RLIKnjLdc3nTAS5s/ms6aLyd7o2kwPebs=
+
+Name: assets/union_power/peridot/base_clear_unactive_music_apps.config
+SHA-256-Digest: MMDuUESGihH9h93jE1jkkrzgiFC6G7zU11hrkRbFEzQ=
+
+Name: assets/union_power/peridot/base_video_idle_config.config
+SHA-256-Digest: hV93OZqh8J/fe5/0JUcjz3iU+Yhqcu6bkb7rQxgrXnI=
+
+Name: assets/union_power/peridot/intl/special_cpu_doze_group.config
+SHA-256-Digest: vbKZ9pwrhd1YuS6LVONUdvPDbWuAc4bsdqwJr0w0LXg=
+
+Name: assets/union_power/peridot/special_cpu_doze_group.config
+SHA-256-Digest: 0bkdExuR4fWjEryguSNztoNxpunrxnn5xeEPL1ULyxw=
+
+Name: assets/union_power/rothko/intl/special_cpu_doze_group.config
+SHA-256-Digest: P+1oGHMKHUoY3WEoMzD32vXzbHMzVJXboHB0kKneMxI=
+
+Name: assets/union_power/rothko/special_cpu_doze_group.config
+SHA-256-Digest: M+/BN/Jchhh9CQ/tuKZYkRYG1/1jQ8vbxy3jYJN8Jdk=
+
+Name: assets/union_power/vermeer/base_power_save_mode_new.config
+SHA-256-Digest: nMX8y7wwz5RLIKnjLdc3nTAS5s/ms6aLyd7o2kwPebs=
+
+Name: assets/union_power/vermeer/intl/base_power_save_mode_new.config
+SHA-256-Digest: IpwxRuuk7ZmOS/AqyqTptor3SAcBrtPNFf4FSIfyLrk=
+
+Name: assets/union_power/vermeer/intl/special_cpu_doze_group.config
+SHA-256-Digest: huPl4SH8i0HQlFO+tlXIZHxZIAaiTPdPMx2WwCeUo+o=
+
+Name: classes.dex
+SHA-256-Digest: 578QUlCPvklyBmH88s10bzLytWSaCFGo6iGrcs+6RAc=
+
+Name: res/drawable-hdpi-v4/icon.webp
+SHA-256-Digest: R1iXumCs4Nly2z0Q+Z9bYNqo16Dme2vSJCHXVsCZqbs=
+
+Name: res/drawable-xhdpi-v4/icon.webp
+SHA-256-Digest: 0fE2ahA49En9WwmpLj5UTTMGLmjLbZvgw1pjfkZ1FAA=
+
+Name: res/drawable-xxhdpi-v4/icon.webp
+SHA-256-Digest: eZ+cVZ1UfDcJuim7iYuSHlAaWKPn67G6NIBdgGikgII=
+
+Name: res/drawable-xxxhdpi-v4/icon.webp
+SHA-256-Digest: ++CIOrnuLUyWl9hAiXdsVAMmgzxuf4YWiBBODT6wO5g=
+
+Name: res/drawable/round_corner.xml
+SHA-256-Digest: ih0b98rUAHzV++l0z6utg3cdqe6nePscy5daAIfJH/s=
+
+Name: res/layout/activity_cloud_info.xml
+SHA-256-Digest: lr9MmKDtHQccrG3VgSo+RCPURyHFVGn8pCtz2ugccBw=
+
+Name: res/layout/thermalconfig_info_item.xml
+SHA-256-Digest: sDz3rU6JVXeewy+Rd2pvnOY14aHPJy3MOV6n+a/l1wA=
+
+Name: res/layout/thermalconfig_info_view.xml
+SHA-256-Digest: jh4rB+B/yxDakXyE6nq8rQ3z0D+aY4DdiHpPLrvD0TA=
+
+Name: resources.arsc
+SHA-256-Digest: I5VJuUKJ4ncRX3RS5BjIJIzPr++Ml/A3FjxjGwX9w+E=
+

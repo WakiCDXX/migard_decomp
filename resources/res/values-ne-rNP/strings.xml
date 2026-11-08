@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">गतिविधि स्थिति द्वारा क्रमबद्ध गर्नुहोस्</string>
+    <string name="app_name">ब्याट्री र कार्यसम्पादन</string>
+    <string name="base_info">आधार जानकारी</string>
+    <string name="checking_intranet">इन्ट्रानेट कनेक्टसन जाँच गर्दैछ…</string>
+    <string name="clear_temperature">समाप्त हुँदाको तापमान</string>
+    <string name="cloud_addr_info">क्लाउडको जानकारी</string>
+    <string name="confirm">ठिक छ</string>
+    <string name="connect_intranet_hint">इन्ट्रानेटमा कनेक्ट गर्नुहोस्</string>
+    <string name="delete_data_confirm">यो वस्तु अहिले मेटाउनुहुन्छ?</string>
+    <string name="enable_sleep_mode">राती ब्याट्री अप्टिमाइज गर्न स्लिप मोड अन गर्नुहोस्</string>
+    <string name="failure">त्रुटि</string>
+    <string name="high_temp_benchmark_state">ओभरहिटिङ</string>
+    <string name="high_temp_benchmark_state_message">तपाईंको डिभाइस अहिले धेरै तातो भएको जस्तो देखिन्छ। डिभाइस सेलाएपछि यो एप प्रयोग गरेर हेर्नुहोस्: </string>
+    <string name="high_temp_state">धेरै तातेको</string>
+    <string name="high_temp_state_message">तपाईंको डिभाइस अति नै तातो छ। मोबाइल डेटा, वाइ-फाइ हटस्पटहरू, GPS, र क्यामेरा प्रतिबन्धित हुनेछ।</string>
+    <string name="high_temp_state_message_orange_es">डिभाइसको कार्यसम्पादनमा सुधार गर्न केही एपहरू अस्थायी रूपमा असक्षम पारिएका छन्।</string>
+    <string name="insert_data">डाटा घुसाउनुहोस्</string>
+    <string name="kill_all_back_pro_toast_message">तपाईंको डिभाइस अति तातिएको छ। अहिलेको लागि पृष्ठभूमिमा चलिरहेका सबै एपहरू बन्द गरियो।</string>
+    <string name="kill_pkg_toast_message">डिभाइस ओभरहिटिङ भएको कारण एप्स प्रयोग गर्न सकिँदैन</string>
+    <string name="kill_some_back_pro_toast_message">तपाईंको डिभाइस अति तातिएको छ। अहिलेका लागि पृष्ठभूमिमा चलिरहेका केही एपहरू बन्द गरियो।</string>
+    <string name="lasttime_applist_cloud">अपडेट गरिएको एपहरू:</string>
+    <string name="lasttime_feature_cloud">अपडेट गरिएको फीचरहरू:</string>
+    <string name="modify_data">डाटा परिमार्जन गर्नुहोस्</string>
+    <string name="power_consume_abnormal_night">ब्याट्री राति कम हुदैछ</string>
+    <string name="privacy">गोपनीयता नीति</string>
+    <string name="save_data">डाटा सेभ गर्नुहोस्</string>
+    <string name="screen_off_current">स्क्रिन अफ DC</string>
+    <string name="screen_on_current">स्क्रिन अन DC</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">कुनै पनि एपहरू फेला पार्न सकिएन</string>
+    <string name="softbank_high_temp_toast_time_10min">धेर तातो हुनबाट बचाउन फ्ल्यासलाइट बन्द गर्नुहोस्</string>
+    <string name="softbank_high_temp_toast_time_4min">धेर तातो हुनबाट बचाउन फ्ल्यास बन्द गर्नुहोस्</string>
+    <string name="stricter_high_temp_state_message">यो डिभाइस अति तातो भएको जस्तो देखिन्छ । तपाईं अहिलेको लागि मात्र फोन र सम्पर्कहरू प्रयोग गर्न सक्नुहुनेछ।</string>
+    <string name="sucess">सकियो</string>
+    <string name="thermal_cancel">रद्द गर्नुहोस्</string>
+    <string name="thermal_confirm">ठिक छ</string>
+    <string name="trig_temperature">सुरु हुँदाको तापमान</string>
+</resources>

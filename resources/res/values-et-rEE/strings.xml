@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">Sorteeri tegevuse staatuse järgi</string>
+    <string name="app_name">Aku ja jõudlus</string>
+    <string name="base_info">Baasinfo</string>
+    <string name="checking_intranet">Sisevõrgu ühenduse kontrollimine…</string>
+    <string name="clear_temperature">Lõpu temperatuur</string>
+    <string name="cloud_addr_info">Pilveinfo</string>
+    <string name="confirm">OK</string>
+    <string name="connect_intranet_hint">Ühendage sisevõrguga</string>
+    <string name="delete_data_confirm">Kustutada see üksus kohe?</string>
+    <string name="enable_sleep_mode">Öise aku kasutamise optimeerimiseks lülita sisse Uinaku režiim</string>
+    <string name="failure">Viga</string>
+    <string name="high_temp_benchmark_state">Ülekuumenemine</string>
+    <string name="high_temp_benchmark_state_message">Paistab, et see seade on praegu liiga kuum. Kasutage seda rakendust pärast seadme jahtumist: </string>
+    <string name="high_temp_state">Ülekuumenemine</string>
+    <string name="high_temp_state_message">Sinu seade kuumeneb üle. Mobiilside andmeid, WIFI hotspote ja kaamerat piiratakse.</string>
+    <string name="high_temp_state_message_orange_es">Seadme jõudluse parandamiseks on mõned rakendused ajutiselt keelatud.</string>
+    <string name="insert_data">Sisesta andmed</string>
+    <string name="kill_all_back_pro_toast_message">Teie seade on ülekuumenenud. Kõik taustal töötavad rakendused on praegu suletud.</string>
+    <string name="kill_pkg_toast_message">Seadme ülekuumenemise tõttu ei saa rakendusi kasutada</string>
+    <string name="kill_some_back_pro_toast_message">Teie seade on ülekuumenenud. Mõned taustal töötavad rakendused on praegu suletud.</string>
+    <string name="lasttime_applist_cloud">Uuendatud rakendused:</string>
+    <string name="lasttime_feature_cloud">Uuendatud jooned:</string>
+    <string name="modify_data">Muuda andmeid</string>
+    <string name="power_consume_abnormal_night">Aku tühjeneb öösel</string>
+    <string name="privacy">Privaatsuspoliitika</string>
+    <string name="save_data">Salvesta andmed</string>
+    <string name="screen_off_current">Ekraan ei ole alalisvoolul</string>
+    <string name="screen_on_current">Ekraan alalisvoolul</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">Rakendusi ei leitud</string>
+    <string name="softbank_high_temp_toast_time_10min">Ülekuumenemise vältimiseks on välk välja lülitatud</string>
+    <string name="softbank_high_temp_toast_time_4min">Ülekuumenemise vältimiseks on välk välja lülitatud</string>
+    <string name="stricter_high_temp_state_message">Näib, et see seade on ülekuumenenud. Praegu saate kasutada ainult telefoni ja kontakte.</string>
+    <string name="sucess">Tehtud</string>
+    <string name="thermal_cancel">Tühista</string>
+    <string name="thermal_confirm">OK</string>
+    <string name="trig_temperature">Alguse temperatuur</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">დახარისხება აქტიურობის სტატუსის მიხედვით</string>
+    <string name="app_name">ბატარეა და წარმადობა</string>
+    <string name="base_info">საბაზო ინფო</string>
+    <string name="checking_intranet">შეამოწმეთ intranet-ს კავშირი…</string>
+    <string name="clear_temperature">საბოლოო ტემპერატურა</string>
+    <string name="cloud_addr_info">Cloud-ის ინფორმაცია</string>
+    <string name="confirm">OK</string>
+    <string name="connect_intranet_hint">დაუკავშირდით intranet-ს</string>
+    <string name="delete_data_confirm">გსურთ წაშალოთ ეს ერთეული ახლა?</string>
+    <string name="enable_sleep_mode">ჩართეთ ძილის რეჟიმი ბატარეის ღამე გამოყენების ოპტიმიზაციისთვის</string>
+    <string name="failure">შეცდომა</string>
+    <string name="high_temp_benchmark_state">გადახურებულია</string>
+    <string name="high_temp_benchmark_state_message">როგორც ჩანს, ეს მოწყობილობა გადაცხელდა. გამოიყენეთ ეს აპლიკაცია მოწყობილობის გასაგრილებლად: </string>
+    <string name="high_temp_state">გადახურებულია</string>
+    <string name="high_temp_state_message">თქვენი მოწყობილობა გადახურებულია. მობილური მონაცემები, Wi-Fi ჰოთსფოთი, GPS და კამერა იმუშავებს შეზღუდულად.</string>
+    <string name="high_temp_state_message_orange_es">მოწყობილობის წარმადობის გასაუმჯობესებლად, ზოგიერთი აპლიკაცია დროებით გამორთულია.</string>
+    <string name="insert_data">მონაცემების ჩასმა</string>
+    <string name="kill_all_back_pro_toast_message">თქვენი მოწყობილობა გადახურებულია. ამ დროისთვის უკანა ფონზე გაშვებული ყველა აპლიკაცია დაიხურა.</string>
+    <string name="kill_pkg_toast_message">აპლიკაციების გამოყენება შეუძლებელია მოწყობილობის გადახურების გამო</string>
+    <string name="kill_some_back_pro_toast_message">თქვენი მოწყობილობა გადახურებულია. დახურულია ზოგიერთი აპლიკაცია, რომელიც მუშაობს უკანა ფონზე.</string>
+    <string name="lasttime_applist_cloud">განახლებული აპლიკაციები:</string>
+    <string name="lasttime_feature_cloud">განახლებული თვისებები:</string>
+    <string name="modify_data">შეცვალეთ მონაცემები</string>
+    <string name="power_consume_abnormal_night">ბატარეა ღამე დაიცლება</string>
+    <string name="privacy">კონფიდენციალურობის პოლიტიკა</string>
+    <string name="save_data">შეინახეთ მონაცემები</string>
+    <string name="screen_off_current">ჩართეთ DC ეკრანზე</string>
+    <string name="screen_on_current">ჩართეთ DC ეკრანზე</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">ვერცერთი აპი ვერ ვიპოვნე</string>
+    <string name="softbank_high_temp_toast_time_10min">გამორთეთ ფანარი, გადახურების თავიდან ასაცილებლად</string>
+    <string name="softbank_high_temp_toast_time_4min">გამორთეთ ფანარი, გადახურების თავიდან ასაცილებლად</string>
+    <string name="stricter_high_temp_state_message">როგორც ჩანს, ეს მოწყობილობა გადახურებულია. ამ დროისთვის მხოლოდ ტელეფონისა და კონტაქტების გამოყენებას შეძლებთ.</string>
+    <string name="sucess">შესრულებულია</string>
+    <string name="thermal_cancel">გაუქმება</string>
+    <string name="thermal_confirm">OK</string>
+    <string name="trig_temperature">საწყისი ტემპერატურა</string>
+</resources>

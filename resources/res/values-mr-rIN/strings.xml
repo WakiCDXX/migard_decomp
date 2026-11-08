@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">क्रियाकलाप स्टेटसद्वारे विभागा</string>
+    <string name="app_name">बॅटरी आणि कार्यप्रदर्शन</string>
+    <string name="base_info">बेस माहिती</string>
+    <string name="checking_intranet">इंट्रानेट कनेक्शन तपासत आहे…</string>
+    <string name="clear_temperature">समाप्तीचे तापमान</string>
+    <string name="cloud_addr_info">क्लाऊड माहिती</string>
+    <string name="confirm">ओके</string>
+    <string name="connect_intranet_hint">इंट्रानेटशी कनेक्ट करा</string>
+    <string name="delete_data_confirm">हा आयटम आता डिलीट करायचा?</string>
+    <string name="enable_sleep_mode">रात्रीच्या वेळी बॅटरी वापर कमी करण्यासाठी झोप मोड सुरु करा</string>
+    <string name="failure">एरर</string>
+    <string name="high_temp_benchmark_state">ओव्हरहिटींग</string>
+    <string name="high_temp_benchmark_state_message">असे दिसते की हे डिव्हाइस आता खूपच गरम आहे. डिव्हाइस थंड झाल्यानंतर हे एप वापरा: </string>
+    <string name="high_temp_state">ओव्हरहिटींग</string>
+    <string name="high_temp_state_message">तुमचे डिव्हाइस ओव्हरहिट होत आहे. मोबाईल डेटा, वाय-फाय हॉटस्पॉट्स, GPS आणि कॅमेरा प्रतिबंधित केला जाईल.</string>
+    <string name="high_temp_state_message_orange_es">डिव्हाइस कार्यप्रदर्शन सुधारण्यासाठी, काही एप्स तात्पुरते अक्षम केले गेले आहेत.</string>
+    <string name="insert_data">डेटा इन्सर्ट करा</string>
+    <string name="kill_all_back_pro_toast_message">तुमचे डिव्हाइस ओव्हरहिटेड झाले आहे. पार्श्वभूमीत चालणारे सर्व एप्स सध्या बंद केले.</string>
+    <string name="kill_pkg_toast_message">डिव्हाइस ओव्हरहिटींगमुळे एप्स वापरु शकत नाही</string>
+    <string name="kill_some_back_pro_toast_message">तुमचे डिव्हाइस ओव्हरहिटेड झाले आहे. पार्श्वभूमीत चालणारे काही एप्स सध्या बंद केले.</string>
+    <string name="lasttime_applist_cloud">अपडेट केलेली एप्स:</string>
+    <string name="lasttime_feature_cloud">अपडेट केलेली वैशिष्टे:</string>
+    <string name="modify_data">डेटा मॉडिफाय करा</string>
+    <string name="power_consume_abnormal_night">रात्री बॅटरी खर्च झाली आहे</string>
+    <string name="privacy">गोपनीयता धोरण</string>
+    <string name="save_data">डेटा सेव्ह करा</string>
+    <string name="screen_off_current">स्क्रीन बंद DC</string>
+    <string name="screen_on_current">स्क्रीन सुरु DC</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">कोणतीही एप्स आढळून आली नाहीत</string>
+    <string name="softbank_high_temp_toast_time_10min">ओव्हरहिटींग टाळण्यासाठी फ्लॅशलाईट बंद केला</string>
+    <string name="softbank_high_temp_toast_time_4min">ओव्हरहिटींग टाळण्यासाठी फ्लॅश बंद केला</string>
+    <string name="stricter_high_temp_state_message">हे डिव्हाइस ओव्हरहिटींग झाले आहे असे दिसते. तुम्ही सध्या फक्त फोन आणि काँटॅक्टस वापरण्यास सक्षम असाल.</string>
+    <string name="sucess">पूर्ण झाले</string>
+    <string name="thermal_cancel">रद्द</string>
+    <string name="thermal_confirm">ओके</string>
+    <string name="trig_temperature">सुरुवातीचे तापमान</string>
+</resources>

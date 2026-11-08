@@ -1,0 +1,19 @@
+package steps;
+
+option optimize_for = LITE_RUNTIME;
+option java_package = "com.miui.powerkeeper.backup";
+option java_outer_classname = "StepsProtos";
+
+message StepEntry {
+    optional string guid = 1;
+    optional string luid = 2;
+    optional int32 id = 3;
+    optional int64 begintime = 4;
+    optional int64 endtime = 5;
+    optional int32 mode = 6;
+    optional int32 step = 7;
+}
+
+message Steps {
+    repeated StepEntry stepEntry = 1;
+}

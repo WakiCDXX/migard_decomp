@@ -1,0 +1,11 @@
+import "steps.proto";
+
+package syncroot;
+
+option optimize_for = LITE_RUNTIME;
+option java_package = "com.miui.powerkeeper.backup";
+option java_outer_classname = "SyncRootProtos";
+
+message SyncRoot {
+  optional steps.Steps steps = 16;
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_classify">Rendit sipas statusit të aktivitetit</string>
+    <string name="app_name">Bateria dhe performanca</string>
+    <string name="base_info">Informacioni bazë</string>
+    <string name="checking_intranet">Po kontrollon lidhjen në intranet…</string>
+    <string name="clear_temperature">Temperatura e fundit</string>
+    <string name="cloud_addr_info">Informacioni Cloud</string>
+    <string name="confirm">OK</string>
+    <string name="connect_intranet_hint">Lidhu me intranet</string>
+    <string name="delete_data_confirm">Të fshihet ky artikull tani?</string>
+    <string name="enable_sleep_mode">Aktivizo modalitetin gjumë për të optimizuar përdorimin e baterisë gjatë natës</string>
+    <string name="failure">Gabim</string>
+    <string name="high_temp_benchmark_state">Mbinxehuri</string>
+    <string name="high_temp_benchmark_state_message">Duket sikur kjo pajisje është shumë e nxehtë tabi. Përdor këtë aplikacion pasi kjo pajisje të ftohet: </string>
+    <string name="high_temp_state">Mbinxehuri</string>
+    <string name="high_temp_state_message">Pajisja juaj është në mbi nxehtesi. Të dhënat e telefonit, pikat e nxehta të WI-Fi, GPS, dhe kamera do të kufizohen.</string>
+    <string name="high_temp_state_message_orange_es">Për të përmirësuar performancën e pajisjes, disa aplikacione janë çaktivizuar përkohësisht.</string>
+    <string name="insert_data">Fut të dhënat</string>
+    <string name="kill_all_back_pro_toast_message">Pajisja juaj është mbinxehur. Për momentin janë mbyllur të gjitha aplikacione që funksionojnë në sfond.</string>
+    <string name="kill_pkg_toast_message">Nuk mund të përdorësh aplikacionet për shkak të mbinxehjes së pajisjes</string>
+    <string name="kill_some_back_pro_toast_message">Pajisja juaj është mbinxehur. Për momentin janë mbyllur disa aplikacione që funksionojnë në sfond.</string>
+    <string name="lasttime_applist_cloud">Aplikacionet e azhuruara:</string>
+    <string name="lasttime_feature_cloud">Tiparet e azhurimit:</string>
+    <string name="modify_data">Modifiko të dhëna</string>
+    <string name="power_consume_abnormal_night">Bateria po harxhohet natën</string>
+    <string name="privacy">Politika e privatësisë</string>
+    <string name="save_data">Ruaj të dhëna</string>
+    <string name="screen_off_current">Ekrani i fikur DC</string>
+    <string name="screen_on_current">Ekrani në DC</string>
+    <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
+    <string name="search_result_text">Nuk mund të gjehej asnjë aplikacion</string>
+    <string name="softbank_high_temp_toast_time_10min">Fik elektrik dore për të shmangur mbinxehjen</string>
+    <string name="softbank_high_temp_toast_time_4min">Fik blic për të shmangur mbinxehjen</string>
+    <string name="stricter_high_temp_state_message">Duket sikur pajisja është mbinxehur. Ti do të jesh në gjendje vetëm të përdorësh Telefonin dhe kontaktet për tani.</string>
+    <string name="sucess">U krye</string>
+    <string name="thermal_cancel">Anullo</string>
+    <string name="thermal_confirm">Në rregull</string>
+    <string name="trig_temperature">Temperatura e fillimit</string>
+</resources>
